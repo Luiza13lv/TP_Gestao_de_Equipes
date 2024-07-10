@@ -1,0 +1,28 @@
+# Arquivos de configuração
+.env
+
+# Dependências
+node_modules/
+
+# Arquivos gerados durante a execução
+package.json
+package-lock.json
+
+# Arquivos de log e erros
+logs/
+*.log
+npm-debug.log*
+
+# Arquivos temporários
+*.tmp
+*.tmp.*
+*.swp
+
+# Arquivos de build
+/build/
+.DS_Store
+
+# Outros
+.idea/
+.vscode/
+.vs/
