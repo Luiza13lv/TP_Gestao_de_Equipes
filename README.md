@@ -2,7 +2,7 @@
 
 ## Trabalho Prático - Gestão de Equipes
 
-Este projeto é um trabalho prático de Gestão de Equipes desenvolvido pelo Grupo 4 como parte da disciplina [insira o nome da disciplina aqui].
+Este projeto é um trabalho prático de Gestão de Equipes desenvolvido pelo Grupo 4 como parte da disciplina de Gestão de Equipes.
 
 ### Integrantes do Grupo:
 - Chrystian Paulo Ferreira de Melo
