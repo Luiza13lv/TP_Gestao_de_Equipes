@@ -31,26 +31,10 @@ Para configurar e executar o projeto, siga as instruções abaixo:
 ### Pré-requisitos
 
 - Node.js instalado
-- Conta na plataforma de IA (por exemplo, Google Generative AI) com uma API Key válida
 
-### Defina a variável de ambiente `API_KEY`:
+### Configuração Automática
 
-```bash
-set API_KEY=your_api_key_here
-$env="your_api_key_here"
-```
-### Instalação das Dependências
-
-No diretório raiz do projeto, execute o seguinte comando para instalar as dependências necessárias:
+Para configurar e executar o projeto automaticamente, execute o script `config_and_run.bat` localizado no diretório raiz do projeto:
 
 ```bash
-npm install @google/generative-ai
-npm install express @google/generative-ai dotenv
-```
-
-### Executando o Projeto
-Para iniciar o servidor Node.js e executar o projeto, utilize o seguinte comando:
-
-```bash
-node server.js
-```
+config_and_run.bat
