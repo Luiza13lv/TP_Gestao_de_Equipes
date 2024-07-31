@@ -1,2 +1,1254 @@
-O grupo de gestao de equipes é composto por Chrystian, Gabriel, Letícia, Luiza e João
-O tema do trabaho de gestao de equipes é chatbot para duvidas da ufmg
+* Quais os horários dos ônibus internos da UFMG?
+Linha 1 - Período letivo
+Hora
+Minuto
+ 
+Manhã
+06 | 07 | 08 | 09 | 11
+10 | 30 | 35 | 40 | 10
+50 | 50
+Tarde
+12 | 13 | 14 | 15 | 16 | 17
+30 | 15 | 10 | 10 | 30 | 10
+50 | 55
+Noite
+18 19
+50 40
+ESCOLA DE MÚSICA – BELAS ARTES –CAD 2 – LETRAS – CIÊNCIA DA INFORMAÇÃO – FAFICH – FACE – REITORIA - PRAÇA DE SERVIÇOS – BIBLIOTECA UNIVERSITÁRIA – REITORIA - UNID. ADM. III - UNID. II – AV. ANTONIO ABRAHÃO CARAM (EM FRENTE AO RESTAURANTE FARROUPILHA) – CENTRO ESPORTIVO – VETERINÁRIA – AV. PRESIDENTE CARLOS LUZ (EM FRENTE MAC DONALD’S) – EEFFTO – ODONTOLOGIA – ESTAÇÃO ECOLÓGICA – VETERINÁRIA – FARMÁCIA – SETORIAL II – FÍSICA – ENG. ELETRICA – CNEN/CDTN – COLÉGIO TÉCNICO – QUÍMICA – ICEX – ENGENHARIA – FAFICH – CIÊNCIA DA INFORMAÇÃO – LETRAS – CAD 2 - BELAS ARTES – ESCOLA DE MÚSICA.
+
+
+Linha 2 - Período letivo
+Hora
+Minuto
+ 
+Manhã
+05 | 06 | 07 | 09 | 10 | 11
+55 | 30 | 10 | 05 | 20 | 30
+50
+Tarde
+12 | 13 | 14 | 15 | 16 | 17
+10 | 45 | 30 | 30 | 10 | 30
+50 | 50
+Noite
+18 | 19 | 20 | 21 | 22
+20 | 20 | 00 | 35 | 30
+50
+ESCOLA DE MÚSICA – BELAS ARTES – CAD 2 - LETRAS – CIÊNCIA DA INFORMAÇÃO – FAFICH – FACE – REITORIA - PRAÇA DE SERVIÇOS – BIBLIOTECA UNIVERSITÁRIA – REITORIA – UNID. ADM. III - UNID. II – AV. ANTÔNIO ABRAHÃO CARAM (EM FRENTE AO RESTAURANTE FARROUPILHA)– CENTRO ESPORTIVO – VETERINÁRIA – AV. PRESIDENTE CARLOS LUZ (EM FRENTE MAC DONALD’S) – EEFFTO – ODONTOLOGIA – ESTAÇÃO ECOLOGICA – VETERINÁRIA – FARMÁCIA – SETORIAL II – FÍSICA – ENG. ELÉTRICA – CNEN/CDTN - – COLÉGIO TÉCNICO – QUÍMICA – ICEX – ENGENHARIA – GEOCIÊNCIAS – SETORIAL I – FAE – CENTRO PEDAGÓGICO - CRECHE – BELAS ARTES – ESCOLA DE MÚSICA.
+
+
+Sublinhado - Retorno na área militar
+
+
+Linha 3 - Período letivo
+Hora
+Minuto
+ 
+Manhã
+05 | 06 | 07 | 08 | 09 | 10 | 11
+40 | 20 | 00 | 20 | 20 | 00 | 20
+40 | 40
+Tarde
+12 | 13 | 14 | 16 | 17
+00 | 30 | 55 | 00 | 20
+40 | 40
+Noite
+18 | 19 | 20 | 21 | 22
+10 | 05 | 30 | 10 | 10
+50 | 50
+ESCOLA DE MÚSICA – BELAS ARTES – CRECHE – CENTRO PEDAGÓGICO – FAE – SETORIAL I – GEOCIÊNCIAS – ENGENHARIA – PRAÇA DE SERVIÇOS – BIBLIOTECA UNIVERSITÁRIA – REITORIA – CAD 1 – ICB – BIOTÉRIO CENTRAL - FARMÁCIA - VETERINÁRIA – ODONTOLOGIA – ESTAÇÃO ECOLÓGICA – EEFFTO – AV. PRES. CARLOS LUZ (EM FRENTE MC DONALD’S) – VETERINÁRIA – AV. C – AV. ABRAHÃO CARAN (EM FRENTE AO RESTAURANTE FARROUPILHA)– UNID. II (DAST/FUNDEP) – UNID. ADM. III (DAP/DRCA/DRH/COPEVE/PROJETO MANUELZÃO/EDUCAÇÃO A DISTÂNCIA/ESTUDOS TRANSCIPLINARES/ESTUDOS DE CRIMINALIDADE E SEGURANÇA/ESTUDOS SOBRE ENSINO SUPERIOR E POLÍTICAS PÚBLICAS) – REITORIA – RUA PROF. EDUARDO M. GUIMARÃES - FAFICH – CIÊNCIA DA INFORMAÇÃO – LETRAS – BELAS ARTES – ESCOLA DE MÚSICA.
+
+
+Sublinhado - Retorno na área militar
+Não atende à Unidade Administrativa III
+
+
+Linha 3 - Atendimento ao BH-Tec
+Hora
+Minuto
+ 
+Manhã
+07
+40
+Tarde
+17
+20
+Noite
+ESCOLA DE MÚSICA – BELAS ARTES – CRECHE – CENTRO PEDAGÓGICO – FAE – SETORIAL I – GEOCIÊNCIAS – ENGENHARIA – PRAÇA DE SERVIÇOS – BIBLIOTECA UNIVERSITÁRIA – REITORIA – CAD 1 – ICB – BIOTÉRIO CENTRAL - FARMÁCIA - VETERINÁRIA – ODONTOLOGIA – ESTAÇÃO ECOLÓGICA – EEFFTO – USIMINAS – RUA PROF. JOSÉ VIEIRA MENDONÇA - BHTEC – AV. PRES. CARLOS LUZ (EM FRENTE MAC DONALD’S) – VETERINÁRIA – AV. C – AV. ABRAHÃO CARAN (EM FRENTE AO RESTAURANTE FARROUPILHA)– UNID. II (DAST/FUNDEP) – UNID. ADM. III (DAP/DRCA/DRH/COPEVE/PROJETO MANUELZÃO/EDUCAÇÃO A DISTÂNCIA/ESTUDOS TRANSCIPLINARES/ESTUDOS DE CRIMINALIDADE E SEGURANÇA/ESTUDOS SOBRE ENSINO SUPERIOR E POLÍTICAS PÚBLICAS) – REITORIA – RUA PROF. EDUARDO M. GUIMARAES - FAFICH – CIÊNCIA DA INFORMAÇÃO – LETRAS – BELAS ARTES – ESCOLA DE MÚSICA.
+
+
+Linha 4 - Período Letivo
+Hora
+Minuto
+ 
+Manhã
+06 | 07 | 08 | 11
+00 | 20 | 05 | 00
+40 | 50 | 40
+Tarde
+12 | 13 | 14 | 15 | 16 | 17
+20 | 05 | 45 | 40 | 20 | 00
+55 | 40
+Noite
+18 | 20
+35 | 15
+ESCOLA DE MÚSICA – BELAS ARTES – CRECHE – CENTRO PEDAGOGICO – FAE – SETORIAL I – GEOCIÊNCIAS – ENGENHARIA – PRAÇA DE SERVIÇOS – BIBLIOTECA UNIVERSITÁRIA – REITORIA – CAD 1 - ICB – BIOTÉRIO CENTRAL - – FARMÁCIA - VETERINÁRIA – ESTAÇÃO ECOLOGICA – ODONTOLOGIA – EEFFTO – ( RETORNO USIMINAS) – EEFFTO - ODONTOLOGIA - ESTAÇÃO ECOLOGICA - VETERINÁRIA - FARMÁCIA - SET. II - ICEX - ENGENHARIA - GEOCIENCIAS - SET. I - FAE - CENTRO PEDAGOGICO - CRECHE - BELAS ARTES - ESCOLA DE MÚSICA.
+
+
+Sublinhado - Retorno na área militar
+Atendimento ao Ponto do McDonald's
+
+
+Linha 4 - Atendimento - Ponto McDonald's
+Hora
+Minuto
+ 
+Manhã
+06 | 07 | 11
+40 | 20 | 00
+40
+Tarde
+12 | 13 | 17
+20 | 05 | 00
+55 | 40
+Noite
+ESCOLA DE MÚSICA – BELAS ARTES – CRECHE – CENTRO PEDAGÓGICO – FAE – SETORIAL I – GEOCIÊNCIAS – ENGENHARIA – PRAÇA DE SERVIÇOS – BIBLIOTECA UNIVERSITÁRIA – REITORIA – CAD 1 - ICB – BIOTÉRIO CENTRAL - – FARMÁCIA - VETERINÁRIA – ESTAÇÃO ECOLÓGICA – ODONTOLOGIA – EEFFTO – AV. PRES. CARLOS LUZ (EM FRENTE MC DONALD’S) – RETORNO NA AV. ALFREDO CAMARATE – AV. PRES. CARLOS LUZ (EM FRENTE MC DONALD’S) – EEFFTO – ODONTOLOGIA - ESTAÇÃO ECOLÓGICA - VETERINÁRIA - FARMÁCIA - SET. II - ICEX - ENGENHARIA – GEOCIÊNCIAS - SET. I - FAE - CENTRO PEDAGÓGICO - CRECHE - BELAS ARTES - ESCOLA DE MÚSICA.
+
+
+Linha 4 - Atendimento BHTEC e McDonald's
+Hora
+Minuto
+ 
+Manhã
+07
+20
+Tarde
+12 | 17
+20 | 00
+Noite
+ESCOLA DE MÚSICA – BELAS ARTES – CRECHE – CENTRO PEDAGÓGICO – FAE – SETORIAL I – GEOCIÊNCIAS – ENGENHARIA – PRAÇA DE SERVIÇOS – BIBLIOTECA UNIVERSITÁRIA – REITORIA – CAD 1 - ICB – BIOTÉRIO CENTRAL - – FARMÁCIA - VETERINÁRIA – ESTAÇÃO ECOLÓGICA – ODONTOLOGIA – EEFFTO – AV. PRES. CARLOS LUZ (EM FRENTE MC DONALD’S) – RETORNO NA AV. ALFREDO CAMARATE – AV. PRES. CARLOS LUZ (EM FRENTE MC DONALD’S – RUA PROF. JOSÉ VIEIRA MENDONÇA – BHTEC – EEFFTO - ODONTOLOGIA - ESTAÇÃO ECOLÓGICA - VETERINÁRIA - FARMÁCIA - SET. II - ICEX - ENGENHARIA - GEOCIÊNCIAS - SET. I - FAE - CENTRO PEDAGÓGICO - CRECHE - BELAS ARTES - ESCOLA DE MÚSICA.
+
+
+Linha sábado
+Hora
+Minuto
+ 
+Manhã
+11
+00
+40
+Tarde
+12 | 13
+20 | 00
+40
+Noite
+Férias e recessos
+Linha 2 - Férias e recessos
+Hora
+Minuto
+ 
+Manhã
+05 | 06 | 07 | 08 | 09 | 10 | 11
+55 | 40 | 20 | 05 | 10 | 40 | 30
+Tarde
+12 | 13 | 14 | 15 | 16 | 17
+10 | 50 | 40 | 30 | 10 | 30
+50 | 50
+Noite
+18 | 19 | 20
+20 | 20 | 00
+ESCOLA DE MÚSICA – BELAS ARTES – CAD 2 - LETRAS – CIÊNCIA DA INFORMAÇÃO – FAFICH – FACE – REITORIA - PRAÇA DE SERVIÇOS – BIBLIOTECA UNIVERSITÁRIA – REITORIA – UNID. ADM. III (DAP/DRCA/DRH/COPEVE/PROJETO MANUELZÃO/EDUCAÇÃO A DISTÂNCIA/ESTUDOS TRANSCIPLINARES/ESTUDOS DE CRIMINALIDADE E SEGURANÇA/ESTUDOS SOBRE ENSINO SUPERIOR E POLITICAS PÚBLICAS) - UNID. II (DAST/FUNDEP) – AV. ANTÔNIO ABRAHÃO CARAM (EM FRENTE AO RESTAURANTE FARROUPILHA)– CENTRO ESPORTIVO – VETERINÁRIA – AV. PRESIDENTE CARLOS LUZ (EM FRENTE MAC DONALD’S) – EEFFTO – ODONTOLOGIA – ESTAÇÃO ECOLOGICA – VETERINÁRIA – FARMÁCIA – SETORIAL II – FÍSICA – ENG. ELÉTRICA (CPDE) – CNEN/CDTN - – COLÉGIO TÉCNICO – QUÍMICA – ICEX- ENGENHARIA – GEOCIÊNCIAS – SETORIAL I – FAE – CENTRO PEDAGÓGICO – CRECHE – BELAS ARTES – ESCOLA DE MÚSICA.
+
+
+Linha de ônibus para moradias universitárias
+As moradias universitárias Ouro Preto I, II e III, em Belo Horizonte, disponibilizam para os estudantes moradores linha exclusiva de ônibus para o campus Pampulha da UFMG. Também em Montes Claros, é oferecida linha que interliga a moradia universitária da UFMG ao campus do ICA. O transporte é gratuito e funciona de segunda a sexta-feira. Os ônibus são equipados com elevadores para atender cadeirantes. Informações: telefone 3498–2573 e e-mail: moradia@fump.ufmg.br
+Informe-se sobre os quadros de horários.
+
+
+Divisão de Transportes
+Informações, reclamações, dúvidas e sugestões
+Telefones: 3409–4601, 3409–4606
+E-mail: sfrota@dsg.ufmg.br
+
+
+Duas linhas de ônibus municipais atendem quem vai ao Campus Pampulha, com pontos internos ao campus: a 5102 UFMG/ Santo Antônio, e a 9502 São Geraldo/São Francisco.
+
+
+   * Qual o horário de funcionamento dos bandejões?
+Restaurante Universitário Setorial I (campus Pampulha)
+Horário de funcionamento:
+De segunda à sexta-feira (exceto feriados)
+- Almoço: das 10:30 às 14 horas
+- Jantar: das 17h10 às 19 horas
+Sábados (exceto feriados), almoço das 11h00 às 13 horas.
+
+
+Restaurante Universitário Setorial II (campus Pampulha)
+Horário de funcionamento:
+De segunda à sexta-feira (exceto feriados)
+     - Café da manhã gratuito para estudantes assistidos nos níveis I, II e III: das 6h45 às 8h10
+     - Almoço: das 10:30 às 14 horas
+
+
+Restaurante Universitário campus Saúde
+Horário de funcionamento:
+De segunda à sexta-feira (exceto feriados)
+     - Café da manhã gratuito para estudantes assistidos nos níveis I, II e III: das 7 às 8 horas
+     - Almoço: das 10:30 às 14 horas
+     - Jantar: das 17h30 às 19 horas
+Sábados (exceto feriados), almoço das 11h30 às 13 horas.
+
+
+Restaurante Universitário da Faculdade de Direito
+Horário de funcionamento:
+De segunda à sexta-feira (exceto feriados)
+     - Café da manhã gratuito para estudantes assistidos nos níveis I, II e III: das 7 às 8 horas
+     - Almoço: das 11 às 14 horas
+     - Jantar: das 17h30 às 19horas
+No período de férias letivas não há atendimento.
+
+
+Restaurante Universitário ICA (Montes Claros)
+Horário de funcionamento:
+De segunda à sexta-feira (exceto feriados)
+     - Café da manhã gratuito para estudantes assistidos nos níveis I, II e III: das 6h45 às 8 horas
+     - Almoço: das 11 às 13h30
+     - Jantar: das 17h30 às 19h30
+Sábado (exceto feriado), almoço: das 11h15 às 13 horas
+
+
+   * Qual o valor das refeições nos bandejões?
+O Programa de Alimentação tem como objetivo propiciar refeições de qualidade, com cardápio variado e balanceado, contribuindo para o bom desempenho acadêmico dos estudantes da UFMG.
+Os estudantes assistidos no nível I têm gratuidade no café da manhã, almoço e jantar. Os alunos assistidos nos níveis II e III têm gratuidade no café da manhã, além de almoço e jantar a preço subsidiado. Já os assistidos no nível IV (específico para acesso aos RUs) têm almoço e jantar a preço subsidiado.
+Os restaurantes universitários (RUs) são refeitórios destinados ao uso da comunidade acadêmica da UFMG e trabalham com o sistema bandejão.
+Preço e usuários dos restaurantes universitários
+As refeições têm preços diferenciados para as diversas categorias, conforme a resolução nº 15/2023 do Conselho Universitário e Portaria 11.865/2023 da Reitoria da UFMG.
+Valor das refeições:
+Estudantes posicionados pela Fump no nível I        Gratuito
+Estudantes posicionados pela Fump nos níveis II e III                R$ 1,00
+Estudantes posicionados pela Fump no nível IV-A        R$ 2,00
+Estudantes posicionados pela Fump no nível IV-B        R$ 2,90
+Estudantes regularmente matriculados na UFMG e que não são posicionados pela Fump                R$5,60
+Servidores técnico-administrativos em educação        R$ 8,50
+Prestadores de serviços terceirizados vinculados aos contratos gerenciados pela Pró-Reitoria de Administração (PRA)        R$ 8,50
+Servidores docentes e usuários especiais        R$13,00
+Visitantes        R$17,50
+Os usuários* dos Restaurantes Universitários devem apresentar a carteira única da UFMG e um documento oficial de identificação com foto (carteira de identidade, carteira nacional de habilitação, passaporte, carteira de trabalho e carteira de ordens profissionais). Veteranos que ainda não possuem a carteira única, podem apresentar a carteirinha do Sistema de Bibliotecas da UFMG e um documento oficial de identificação com foto.
+Ambas as carteirinhas contém um código de barras que permite a identificação automática do preço da refeição do usuário, de acordo com sua categoria.
+*Estudantes posicionados pela Fump, demais discentes da UFMG, professores, servidores técnicos e administrativos em educação e menores da Cruz Vermelha.
+
+
+   * Como posso acessar a rede de wi-fi da UFMG no campus?
+Como usar
+Quais os passos necessários para habilitar o acesso à Rede?
+a pessoa deve se cadastrar no “minhaUFMG”, procedimento efetuado de maneira automática para alunos e servidores da Universidade;
+a pessoa deve aceitar o Termo de Uso dos recursos de Tecnologia da Informação da UFMG;
+a pessoa deve configurar seu equipamento.
+Quem pode usar a Rede sem Fio da UFMG?
+A rede sem fio pode ser acessada pelos membros ativos da comunidade UFMG cadastrados no minhaUFMG e também por convidados (https://www.ufmg.br/dti/pagina-inicial/servicos/rede-sem-fio-acesso-de-pessoas-convidadas/).
+
+
+Quais equipamentos podem ser usados para acessar a Rede sem Fio?
+O acesso é possível através de Notebooks, Netbooks, Tablets, Smartphones e outros aparelhos que contem com a função de conexão com uma rede sem fio.
+
+
+O sistema operacional do equipamento deverá aceitar criptografia WPA2-Enterprise.
+
+
+Como fazer ou verificar o cadastro no “minhaUFMG”?
+As instruções para novos usuários e recuperação de senha estão disponíveis em www.minha.ufmg.br
+
+
+Como aceitar o Termo de Uso dos recursos de Tecnologia da Informação da UFMG?
+A aceitação do Termo de Uso já é exigida de todas as pessoas que passaram a fazer parte da comunidade da UFMG a partir de 2010 e fizeram uso de algum recurso computacional.
+
+
+Usuários com registro anterior a 2010 devem fazer a aceitação, uma única vez:
+
+
+a pessoa deve entrar no minhaUFMG e inserir os dados de login;
+na primeira tela, e APENAS se o aceite ainda não foi feito, será exibido o item “Atualização cadastral para acesso a novos serviços” como na figura abaixo:
+a pessoa deve selecionar o item “Atualização cadastral para acesso a novos serviços” e seguir as instruções.
+Como configurar os equipamentos?
+Instruções para configuração de equipamentos estão disponíveis em Configuração.
+
+
+Quantos equipamentos eu posso utilizar?
+Cada usuário poderá usar até 3 dispositivos simultâneos.  O uso de mais  de 3 dispositivos em um único dia gera suspeitas de cessão de credenciais a terceiros  ou roubo de senhas e pode gerar bloqueio do acesso até a regularização de nova senha.
+
+
+Instruções para configuração de dispositivos mais comuns
+Configuração Android – Versão 11 ou superior
+
+
+Para usuários com Android, basta informar o Login e a Senha do minhaUFMG. A ordem dos campos e o formato das telas varia conforme o modelo do aparelho e a versão do Android.
+
+
+Primeiramente, vá nas configurações do seu telefone (normalmente dentro de “Menu” ou “Programas”);
+Depois vá para “Configurações Sem Fio e Rede” / “Configurações Wi-Fi”;
+Dentro das Redes Wi-Fi, clique na rede “UFMG” como é mostrado na figura abaixo:
+
+
+Após clicar na rede que deseja conectar, selecione “opções avançadas” para configurar.
+Em Certificado CA selecione a opção “Não Validar”;
+Forneça sua identificação: em “Identidade”, coloque o seu login do minhaUFMG;
+Deixe o campo “Identidade Anônima” em branco – usuários que tentam usar identidade anônima diferente da real não conseguem se autenticar na UFMG;
+Em Palavra-Passe, Senha ou Password digite a sua senha do minhaUFMG;
+
+
+OBS: A partir da versão 11 do Android em alguns dispositivos, o botão “Conectar” está ficando desabilitado mesmo após o preenchimento dos dados anteriores, solicitando o preenchimento obrigatório do domínio através da seguinte mensagem: “É necessário especificar um domínio”. Neste caso, em Certificado CA selecione a opção “Usar certificados do sistema” e no campo domínio digite “rsf.ufmg.br”.
+
+
+Depois clique em Ligar ou Conectar.
+
+
+Configuração Linux
+O Linux é um sistema operacional que pode ser montado de maneiras diferentes conforme a distribuição que é utilizada. Além disto, cada distribuição permite a utilização de vários gerenciadores de desktop, o que permite que o sistema se apresente com “caras” diferentes de acordo com o padrão utilizado pela distribuição ou o gosto do usuário. Entretanto, a forma de configuração da rede sem fio da UFMG em sistemas Linux é similar à utilizada nos telefones Android (que executam Linux) e nos computadores Mac (que executam um sistema com a mesma raiz do Linux):
+
+
+Para iniciar a configuração, encontre e pressione o ícone de Rede e selecione “UFMG”.
+
+
+Na tela seguinte, informe seu login (usuário) e senha do minhaUFMG, deixando o campo “Identidade Anônima” em branco. Marque a opção “Nenhum certificado CA é necessário” caso tenha esta opção. A rede sem fio da UFMG não admite o uso de artifícios para esconder o verdadeiro usuário de um equipamento conectado a sua rede:
+
+
+Clique em “Conectar”:
+
+
+Eventualmente, pode aparecer uma mensagem alertando sobre a autenticidade do Certificado de Autoridade. A UFMG, como várias universidades pelo mundo, utiliza um certificado auto-assinado, que não é reconhecido automaticamente pelos sistemas. Esta mensagem deve ser ignorada:
+A conexão está feita e já é possível utilizar os serviços da rede:
+
+
+Configuração Windows 10
+No menu iniciar, apenas digite Rede, e selecione Status da Rede
+Selecione na barra lateral a opção Wi-Fi
+2. Clique em “Gerenciar redes conhecidas”
+3. Nesta tela, serão apresentadas todas as redes sem fio que seu computador já se conectou e guardou as configurações;
+Caso seja listada uma rede identificada como UFMG, clique sobre o nome UFMG, logo em seguida REMOVER para que possamos adicionar uma nova;
+4. Volte para a tela Wi-Fi. Então clique em central de redes e compartilhamento
+5. Clique em “Configurar uma nova conexão ou rede” em seguida em “Conectar-se manualmente a uma rede sem fio”;
+6. Configure da seguinte maneira:
+Nome de rede: UFMG
+Tipo de segurança: WPA2-Enterprise
+Tipo de criptografia: AES
+Clique em “Avançar”;
+7. Clique em “Alterar configurações de conexão”;
+8. Selecione a aba de segurança:
+9. Dentro da aba Segurança, clique no botão “Configurações”;
+10. Na janela de configuração, desmarque a opção “Validar certificado do servidor” e clique no botão “Configurar”;
+11. Na tela mostrada, desmarque a opção “Usar automaticamente meu nome e senha de logon do Windows (e o domínio, se houver)”;
+12. Volte para esta tela e clica em “Configurações avançadas”
+13. Marque a opção “Especificar o modo de autenticação” em seguida selecione a opção “Autenticação de usuário”.
+Confirme todas as alterações clicando em Ok em todas as janelas;
+Posteriormente, realize login com seu usuário e senha do minhaUFMG.
+
+
+Configuração Windows 11
+1. Na barra de tarefas, clique no símbolo do windows.
+2. A seguir, digite no campo de pesquisa “Painel de Controle” e clique na opção encontrada.
+3. Após abrir o menu “Painel de Controle”, clique na opção “Rede e Internet”:
+4. Clique em “Central de Rede e Compartilhamento”:
+5. Clique agora em “Configurar uma nova conexão ou rede”:
+6. Em seguida em “Conectar-se manualmente a uma rede sem fio”;
+Configure da seguinte maneira:
+Nome de rede: UFMG
+Tipo de segurança: WPA2-Enterprise
+Tipo de criptografia: AES
+Clique em “Avançar”:
+7. Clique em “Alterar configurações de conexão”:
+8. Selecione a aba de segurança:
+9. Dentro da aba Segurança, clique no botão “Configurações”:
+10. Na janela de configuração, desmarque a opção “Validar certificado do servidor” e clique no botão “Configurar”:
+11. Na tela mostrada, desmarque a opção “Usar automaticamente meu nome e senha de logon do Windows (e o domínio, se houver)”:
+12. Volte para esta tela e clique em “Configurações avançadas” :
+13. Marque a opção “Especificar o modo de autenticação” em seguida selecione a opção “Autenticação de usuário”:
+Confirme todas as alterações clicando em Ok em todas as janelas;
+Posteriormente, realize login com seu usuário e senha do minhaUFMG.
+
+
+Configuração Windows XP
+A Rede UFMG somente é compatível com o Windows XP atualizado com o Service Pack 3.
+
+
+Para iniciar as configurações:
+
+
+Entre no “Painel de Controle”.
+Entre em “Conexões de Rede”.
+Abra as propriedades de sua conexão de rede sem fio clicando com o botão direito.
+Selecione a aba “Redes sem fio”:
+Remova, se existir, a rede com o nome UFMG,
+Na aba da Conexão de rede sem fio, selecione “Adicionar”.
+Configure a nova rede com os seguintes dados:
+Nome da rede (SSID): UFMG
+Autenticação de rede: WPA2
+Criptografia de dados: AES
+Selecione a aba “Autenticação”:
+Dentro da aba “Autenticação”, selecione o tipo de EAP ” EAP protegido (PEAP)” e
+Selecione “Propriedades”:
+Desmarque a opção “Validar certificado do servidor” e
+Selecione a opção “Configurar” em “Método de Autenticação”:
+Na janela que se abrir, desmarque a opção “Usar meu nome e minha senha de logon do Windows automaticamente” e Feche todas as janelas clicando em “OK” para que as alterações sejam salvas.
+Reinicie o seu computador para garantir que as alterações feitas serão carregadas.
+O Windows tentará conectar-se a rede, e mostrará um balão próximo ao relógio, como na figura abaixo.
+Clique no balão para que a janela de logon possa aparecer.
+Faça login com seu usuário e senha do minhaUFMG. Deixe “Domínio de logon” em branco.
+Selecione Ok para começar a navegar na rede.
+
+
+A configuração para utilização da rede eduroam é feita de maneira similar à da rede UFMG, a única diferença é que o código de usuário (login) informado deve ser acrescido de @ufmg.br, ou seja, deve-se informar como login algo como <loginminhaUFMG@ufmg.br>. Usuários da UFMG devem seguir as instruções de configuração divulgadas pela UFMG. Usuários de outras universidades que pretendam usar a rede eduroam na UFMG devem procurar as instruções de configuração de sua instituição de origem.
+
+
+
+
+   * Qual é o calendário da UFMG para 2024?
+
+
+JANEIRO
+1 segunda-feira Feriado: Confraternização Universal.
+8 segunda-feira
+Data-limite de matrícula on-line (regular e eletiva) para o 1º
+período letivo de 2024, pelos estudantes de Pós-Graduação
+stricto sensu, no Sistema de Matrícula da Pós-Graduação.
+10 a 12 quarta a sexta-feira
+Requerimento de transferência para a UFMG para ingresso no 1º período letivo de 2024, por alunos do PEC-G, junto ao DRCA.
+12 sexta-feira
+Data-limite para a efetivação da matrícula (regular e eletiva) em atividades acadêmicas curriculares de PósGraduação stricto sensu para o 1º período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação, no Sistema de Matrícula da Pós-Graduação.
+26 sexta-feira
+Início do período para requerimento de matrícula antecipada em atividades a serem ofertadas entre o 2º período letivo de 2023 e o 1º período letivo de 2024, nos
+Colegiados de Cursos de Graduação. 
+30 terça-feira
+Início do período para requerimento de matrícula (1ª fase) para o 1º período letivo de 2024, pelos estudantes veteranos de Graduação, exclusivamente no SiGA Mobile.
+31 quarta-feira
+Início do período para requerimento de matrícula (1ª fase) para o 1º período letivo de 2024, pelos estudantes veteranos de Graduação, no Sistema Acadêmico de
+Graduação (SiGA) e no SiGA Mobile.
+FEVEREIRO
+2 sexta-feira
+Término do período para requerimento de matrícula (1a fase) para o 1o
+ período letivo de 2024 e para preenchimento de questionário de avaliação discente do desempenho didático docente no 2o período letivo de 2023, pelos
+estudantes veteranos de Graduação, no Sistema Acadêmico de Graduação (SiGA) e no SiGA Mobile.
+2 sexta-feira
+Data-limite para envio ao DRCA dos processos de transferência para ingresso no 1o
+ período letivo de 2024, no âmbito do PEC-G.
+3 sábado Aniversário de fundação da Faculdade de Odontologia (1907).
+7 quarta-feira
+Data-limite para envio ao DRCA da documentação para registro acadêmico de estudantes de Pós-Graduação para o 1o período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação.
+9 sexta-feira Resultado da 1ª fase da matrícula dos estudantes veteranos de Graduação para o 1o período letivo de 2024.
+12 segunda-feira Recesso Escolar.
+13 terça-feira Feriado: Carnaval.
+14 quarta-feira Recesso Escolar: Cinzas.
+15 quinta-feira
+Início do período de protocolo de pedidos de ajustes e reformas curriculares efetuados pelos Colegiados de Cursos de Graduação, na Pró-Reitoria de Graduação.
+16 sexta-feira
+Data-limite para a conferência dos estudantes concluintes do 2º período letivo de 2023, pelos Colegiados de Cursos de Graduação, no Sistema Acadêmico de Graduação (SiGA).
+16 sexta-feira
+Data-limite para finalização do processo seletivo para admissão aos Cursos de Pós-Graduação stricto sensu e lato sensu, com início das atividades no 1º período letivo de 2024.
+19 e 20 segunda e terça-feira
+Período para envio de requerimento de inclusão de novas atividades na matrícula (2ª fase) do 1º período letivo de 2024, pelos estudantes veteranos de Graduação, no SiGA.
+26 e 27 segunda e terça-feira
+Período para solicitação de matrícula (3a fase) para o 1º período letivo de 2024 em atividades de formação livre (núcleo geral) e formação transversal (núcleo
+complementar), pelos estudantes veteranos de Graduação, no SiGA.
+28 quarta-feira
+Aniversário de criação das seguintes Unidades Acadêmicas (1968): Faculdade de Educação; Faculdade de Letras; Instituto de Ciências Biológicas; Instituto de Ciências Exatas;Instituto de Geociências.
+28 a 01/03 quarta a sexta-feira 
+Orientação ao estudante internacional.
+28 e 29 quarta e quinta-feira
+Acerto de matrícula (regular e eletiva) para o 1º período letivo de 2024, pelos estudantes de Pós-Graduação, nos Colegiados de Cursos de Pós-Graduação stricto sensu.
+29 quinta-feira
+Data-limite para a realização de matrícula para o 1º período letivo de 2024, pelos estudantes de Pós-Graduação lato sensu, nos Colegiados de Cursos de Pós-Graduação.
+MARÇO
+Belo Horizonte: 23 dias letivos (sábados letivos: 9, 16, 23 e 30)
+Montes Claros: 23 dias letivos (sábados letivos: 9, 16, 23 e 30)
+1 sexta-feira 
+Aniversário de fundação da Escola de Ciência da Informação (1950) e da Escola de Veterinária (1932).
+1 sexta-feira
+Resultado da solicitação de matrícula (3ª fase) em atividades de formação livre (núcleo geral) e formação transversal (núcleo complementar) para o 1º período
+letivo de 2024 dos estudantes veteranos de Graduação.
+1 sexta-feira
+Requerimento de matrícula em atividades acadêmicas de Graduação para o 1º período letivo de 2024, pelos estudantes de Pós-Graduação, nas Unidades Acadêmicas responsáveis pela oferta das atividades.
+1 sexta-feira
+Requerimento de matrícula (4ª fase) em atividades acadêmicas curriculares de Pós-Graduação (núcleo avançado) para o 1º período letivo de 2024, pelos
+estudantes de Graduação, nos Colegiados de Cursos de Pós-Graduação.
+1 sexta-feira
+Requerimento de matrícula isolada em atividades acadêmicas curriculares de Graduação e Pós-Graduação para o 1º período letivo de 2024.
+4 segunda-feira INÍCIO DO 1º PERÍODO LETIVO DE 2024.
+4 e 5 segunda e terça-feira 
+Recepção aos calouros dos cursos de Graduação.
+4 segunda-feira
+Data-limite para lançamento de encargos didáticos para o 1o período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação, no Sistema Acadêmico de Pós-Graduação.
+4 segunda-feira
+Início do período para solicitação on-line de vagas e de reoferecimento de cursos para os processos seletivos do 1º e 2º períodos letivos de 2025 e 2026, pelos Colegiados de Cursos/Comissões Coordenadoras de Cursos de PósGraduação lato sensu.
+5 terça-feira 
+Aniversário de fundação da Faculdade de Medicina (1911).
+Reformulação de matrícula dos ingressantes no 1º período letivo de 2024 do Concurso Vestibular 2024 - Habilidades que solicitaram aproveitamento de estudos,
+nos Colegiados de Cursos de Graduação.
+Matrícula em atividades acadêmicas curriculares dos classificados no Processo Seletivo de Transferência e Obtenção de Novo Título/2024, para o 1º período letivo
+de 2024, nos Colegiados de Cursos de Graduação.
+Matrícula dos estudantes de continuidade de estudos visando à obtenção de novo diploma ou habilitação para o 1º período letivo de 2024, nos Colegiados de Cursos de Graduação.
+Matrícula em atividades acadêmicas curriculares de Graduação para o 1º período letivo de 2024, pelos estudantes de Pós-Graduação, nas Unidades Acadêmicas
+responsáveis pela oferta das atividades.
+Matrícula em atividades acadêmicas curriculares de PósGraduação para o 1º período letivo de 2024, pelos estudantes de Graduação, nos Colegiados de Cursos de Pós-Graduação.
+Data-limite para registro acadêmico e matrícula de estudantes intercambistas de Graduação ingressantes no 1º período letivo de 2024.
+6 quarta-feira
+Data-limite para divulgação dos resultados dos requerimentos de matrícula isolada em atividades acadêmicas curriculares para o 1o período letivo de 2024.
+6 a 11 quarta a segunda-feira
+Período de matrícula isolada em atividades acadêmicas curriculares de Graduação e Pós-Graduação para o 1º período letivo de 2024. 
+6 quarta-feira Seminário Integração Docente.
+8 sexta-feira
+Data-limite para análise e lançamento da mudança de percurso curricular (modalidade ou habilitação) para o 1º período letivo de 2024, pelos Colegiados de Cursos de Graduação, no Sistema Acadêmico de Graduação (SiGA).
+11 segunda-feira
+Início do período para requerimento on-line de exame de comprovação de conhecimentos em atividades acadêmicas curriculares para o 1º período letivo de 2024, pelos estudantes de Graduação, nos Colegiados de Cursos de Graduação.
+12 a 19 terça a terça-feira 
+18o Festival de Verão.
+15 sexta-feira
+Data-limite para divulgação dos resultados de aproveitamento de estudos dos classificados no Concurso Vestibular 2024 - Habilidades e no Processo Seletivo para
+Transferência e Obtenção de Novo Título 2024. 
+22 sexta-feira
+Data-limite para lançamento dos trabalhos finais dos estudantes que concluíram a Pós-Graduação no 2º período letivo de 2023, pelos Colegiados de Cursos de Pós-Graduação, no Sistema Acadêmico de Pós-Graduação.
+28 quinta-feira
+Data-limite para lançamento dos acertos de matrícula da Pós-Graduação referentes ao 1º período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação, no Sistema Acadêmico de Pós-Graduação. 
+29 sexta-feira 
+Feriado: Paixão de Cristo.
+ABRIL
+Belo Horizonte: 12 dias letivos (sábados letivos: 6 e 13)
+Montes Claros: 12 dias letivos (sábados letivos: 6 e 13)
+1 segunda-feira
+Término do período de protocolo de pedidos de ajustes e reformas curriculares efetuados pelos Colegiados de Cursos de Graduação, na Pró-Reitoria de Graduação.
+Data-limite para divulgação pelo DRCA, em sua página eletrônica, das vagas remanescentes de Graduação a serem ofertadas para mudança de turno e continuidade de estudos visando à obtenção de novo diploma ou habilitação para ingresso no 2º período letivo de 2024.
+1 a 5 segunda a sexta-feira
+Período para inscrição no processo seletivo para continuidade de estudos visando à obtenção de novo diploma ou habilitação para ingresso no 2º período letivo de 2024.
+Período para inscrição no processo seletivo para mudança de turno para o 2º período letivo de 2024, pelos estudantes veteranos de Graduação, nos Colegiados de Cursos de Graduação.
+2 terça-feira
+Realização de atividades acadêmicas complementares no turno noturno, em substituição às aulas dos cursos de Graduação.
+5 sexta-feira 
+Aniversário de fundação da Escola de Belas Artes (1957).
+13 sábado 
+Mostra Sua UFMG – Campus Montes Claros.
+21 domingo 
+Feriado: Tiradentes.
+Aniversário de fundação da Faculdade de Filosofia e Ciências Humanas (1939) e do Centro Pedagógico (1958).
+25 quinta-feira
+Data-limite para lançamento, no Sistema Acadêmico de Graduação (SiGA), e para comunicação ao DRCA da relação de estudantes veteranos de Graduação com
+mudança de turno aprovada para o 2º período letivo de 2024, pelos Colegiados de Cursos de Graduação.
+Data-limite para divulgação e comunicação ao DRCA dos requerimentos de continuidade de estudos visando à obtenção de novo diploma ou habilitação deferidos para o 2º período letivo de 2024, pelos Colegiados de Cursos de
+Graduação.
+28 domingo 
+Aniversário de fundação da Escola de Música (1925) e do Colégio Técnico (1969).
+29 segunda-feira 
+Realização de atividades acadêmicas complementares no turno noturno, em substituição às aulas dos cursos de Graduação.
+MAIO
+1 quarta-feira 
+Feriado: Dia do Trabalho.
+5 domingo 
+Domingo no Campus Montes Claros.
+6 a 8 segunda a quarta-feira 
+23a Jornada de Extensão.
+13 a 17 segunda a sexta-feira 
+12a Semana de Saúde Mental e Inclusão Social.
+21 terça-feira 
+Aniversário de fundação da Escola de Engenharia (1911).
+24 sexta-feira
+Realização de atividades acadêmicas complementares no turno noturno, em substituição às aulas dos cursos de Graduação.
+25 sábado 
+Mostra Sua UFMG – Campus Pampulha.
+27 segunda-feira
+Data-limite para divulgação das vagas remanescentes de Graduação a serem ofertadas para reopção no 2o período letivo de 2024, na página eletrônica do DRCA.
+Início do período para lançamento da oferta de atividades acadêmicas do 2o
+ período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação, no Sistema Acadêmico de Pós-Graduação.
+27 a 31 segunda a sexta-feira
+Período para inscrição on-line no processo seletivo de reopção para o 2o período letivo de 2024, pelos estudantes de Graduação, na página eletrônica do DRCA. 
+30 quinta-feira 
+Recesso Escolar: Corpus Christi.
+31 sexta-feira 
+Recesso Escolar.
+JUNHO
+Belo Horizonte: 18 dias letivos (sábados letivos: 15, 22 e 29)
+Montes Claros: 18 dias letivos (sábados letivos: 15, 22 e 29)
+5 a 7 quarta a sexta-feira
+Requerimento de transferência para a UFMG para ingresso no 2o período letivo de 2024, por alunos do PEC-G, junto ao DRCA.
+9 domingo 
+Domingo no Campus Pampulha.
+17 segunda feira
+Início do período para registro acadêmico dos candidatos classificados nos processos seletivos de Pós-Graduação, para o 2o período letivo de 2024, nos cursos de Pós-Graduação.
+17 segunda feira
+Início do período de matrícula on-line (regular e eletiva) para o 2o período letivo de 2024, pelos estudantes de Pós- Graduação stricto sensu, no Sistema de Matrícula da Pós-Graduação.
+17 segunda feira
+Início do período de matrícula para o 2o período letivo de 2024 pelos estudantes de Pós-Graduação lato sensu, nos Colegiados de Cursos.
+17 a 20 segunda a quinta-feira
+Período para solicitação de mudança de percurso curricular (modalidade ou habilitação) para o 2o período letivo de 2024, pelos estudantes de Graduação, nos Colegiados de Cursos de Graduação.
+25 terça-feira
+Data-limite para solicitação on-line de vagas e de reoferecimento de cursos para os processos seletivos do 1o e 2o períodos letivos de 2025 e 2026 pelos Colegiados
+de Cursos/Comissões Coordenadoras de Cursos de Pós-Graduação lato sensu.
+28 sexta-feira
+Término do período para requerimento on-line de exame de comprovação de conhecimentos em atividades acadêmicas curriculares para o 1o período letivo de 2024, pelos estudantes de Graduação, nos Colegiados de Cursos de Graduação.
+JULHO
+Belo Horizonte: 27 dias letivos (sábados letivos: 6, 13, 20 e 27)
+Montes Claros: 26 dias letivos (sábados letivos: 6, 13, 20 e 27)
+1 segunda-feira
+Início do período para solicitação on-line de abertura de vagas a serem oferecidas nos processos seletivos do 1o e 2o períodos letivos de 2025, pelos Colegiados de Cursos de
+Pós-Graduação stricto sensu.
+Data-limite para divulgação e comunicação ao DRCA dos candidatos classificados nos processos seletivos de reopção para o 2o período letivo de 2024, pelos Colegiados
+de Cursos de Graduação.
+Data-limite para requerimento de trancamento parcial de matrícula, com ou sem justificativa, em atividades acadêmicas curriculares da Graduação.
+Data-limite para requerimento de trancamento parcial de matrícula em atividades acadêmicas da Pós-Graduação.
+1 a 5 segunda a sexta-feira
+Período para inscrição on-line à colação de grau dos prováveis estudantes de Graduação concluintes do 1o período letivo de 2024, nas Unidades Acadêmicas.
+3 quarta-feira 
+Feriado Municipal em Montes Claros: Aniversário de Montes Claros.
+5 sexta-feira
+Data-limite para solicitação da oferta de atividades acadêmicas curriculares e da alocação de encargos didáticos para o 2o período letivo de 2024, pelos Colegiados de Cursos
+de Pós-Graduação, aos Departamentos Acadêmicos ou estruturas equivalentes.
+7 domingo 
+Aniversário de fundação da Escola de Enfermagem (1933).
+8 a 10 segunda a quarta-feira
+Período para reformulação dos Planos de Estudos e inclusão de atividades de Formação Complementar Aberta (núcleo complementar) para o 2o período letivo de 2024, pelos estudantes veteranos de Graduação, no Sistema Acadêmico de Graduação (SiGA).
+10 quarta-feira
+Realização de atividades acadêmicas complementares no turno noturno, em substituição às aulas dos cursos de Graduação.
+15 a 26 segunda a sexta-feira 
+Curso de Férias de Estudos Brasileiros.
+18 a 26 quinta a sexta-feira 
+56o Festival de Inverno.
+19 sexta-feira
+Data-limite para envio da oferta de atividades acadêmicas e da alocação de encargos didáticos para o 2o período letivo de 2024, pelos Departamentos Acadêmicos ou estruturas equivalentes, aos Colegiados de Cursos de Pós-Graduação.
+19 sexta-feira
+Data-limite para requerimento de aproveitamento de estudos, pelos estudantes de Graduação, nos Colegiados de Cursos de Graduação.
+AGOSTO
+Belo Horizonte: 26 dias letivos (sábados letivos: 3, 10, 17, 24 e 31)
+Montes Claros: 27 dias letivos (sábados letivos: 3, 10, 17, 24 e 31)
+5 segunda-feira 
+Aniversário de fundação da Escola de Arquitetura (1930).
+Início do período para colação de grau dos estudantes concluintes de Graduação do 1o período letivo de 2024.
+9 sexta-feira
+Término do período para lançamento da oferta de atividades acadêmicas do 2o período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação, no Sistema Acadêmico de Pós-Graduação.
+Data-limite para lançamento do calendário de matrícula on-line para o 2o período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação stricto sensu, no Sistema de Matrícula da Pós-Graduação.
+15 quinta-feira 
+Feriado Municipal em Belo Horizonte: Assunção de Nossa Senhora.
+21 Quarta-feira
+Data-limite de matrícula on-line (regular e eletiva) para o 2o período letivo de 2024, pelos estudantes de Pós-Graduação stricto sensu, no Sistema de Matrícula da Pós-Graduação.
+23 sexta-feira
+Data-limite para solicitação on-line de abertura de vagas a serem oferecidas nos processos seletivos do 1o e 2o períodos letivos de 2024, pelos Colegiados de Cursos de Pós-Graduação stricto sensu, à Pró-Reitoria de Pós-Graduação.
+Data-limite para a efetivação da matrícula (regular e eletiva) em atividades acadêmicas de Pós-Graduação stricto sensu para o 2o período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação, no Sistema de Matrícula da Pós-Graduação.
+26 segunda-feira
+Início do período para requerimento de matrícula antecipada em atividades a serem ofertadas entre o 1º e 2º períodos letivos de 2024, nos Colegiados de Cursos de Graduação.
+27 terça-feira 
+Aniversário de fundação da Faculdade de Farmácia (1911).
+30 sexta-feira
+Data-limite para registro acadêmico e matrícula de estudantes de Pós-Graduação stricto sensu selecionados por meio de fluxo contínuo no ano de 2024, com ingresso no 1o período letivo de 2024.
+Data-limite para envio ao DRCA dos processos de transferência para ingresso na UFMG no 2o período letivo de 2024, no âmbito do PEC-G.
+31 sábado
+Data-limite para requerimento de trancamento total de matrícula, no 1o período letivo de 2024, para os estudantes de Pós-Graduação.
+Data-limite para requerimento de trancamento total de matrícula, com justificativa, conforme determinações do art. 96 da Resolução Complementar do CEPE no 01/2018, no 1o período letivo de 2024, pelos estudantes de Graduação.
+Data-limite para fechamento dos resultados finais do 1o período letivo de 2024 em atividades acadêmicas de Graduação, pelos docentes, no Sistema Diário de Classe Eletrônico.
+ÚLTIMO DIA LETIVO DO 1o PERÍODO LETIVO DE 2024.
+SETEMBRO
+Belo Horizonte: 7 dias letivos
+Montes Claros: 7 dias letivos
+2 segunda-feira
+Data-limite para fechamento dos resultados de exames especiais do 1o período letivo de 2024, pelos docentes, no Sistema Diário de Classe Eletrônico.
+Data-limite para fechamento dos resultados finais do 1o período letivo de 2024 em atividades acadêmicas de Pós-Graduação, pelos docentes, no Sistema Diário de Classe Eletrônico.
+6 sexta-feira
+Término do período para requerimento de matrícula antecipada em atividades a serem ofertadas entre o 1o e 2o períodos letivos de 2024, nos Colegiados de Cursos de Graduação.
+Data-limite para conferência dos estudantes concluintes do 1o período letivo de 2024 em continuidade de estudos, visando à obtenção de novo diploma ou habilitação deferida para o 2o período letivo de 2024, pelos Colegiados de Cursos de Graduação, no Sistema
+Acadêmico de Graduação (SiGA).
+7 sábado 
+Feriado: Independência do Brasil.
+Aniversário de fundação da UFMG (1927).
+9 segunda-feira
+Início do período para requerimento de matrícula (1a fase) para o 2o período letivo de 2024, pelos estudantes veteranos de Graduação, exclusivamente no SiGA Mobile.
+10 e 11 terça e quarta-feira
+Término do período para requerimento de matrícula (1a fase) para o 2o período letivo de 2024 e para preenchimento de questionário de avaliação discente do desempenho didático docente no 1o período letivo de 2024, pelos estudantes veteranos de Graduação, no
+Sistema Acadêmico de Graduação (SiGA) e no SiGA Mobile.
+12 quinta-feira
+Data-limite para a conferência dos estudantes concluintes do 1o período letivo de 2024, pelos Colegiados de Cursos de Graduação, no Sistema Acadêmico de Graduação (SiGA).
+13 sexta-feira
+Data-limite para finalização do processo seletivo para admissão aos Cursos de Pós-Graduação stricto sensu e lato sensu, com início das atividades no 2o período letivo de 2024.
+18 quarta-feira 
+Resultado da 1a fase da matrícula para o 2o período letivo de 2024 para os estudantes veteranos de Graduação.
+18 a 20 quarta a sexta-feira 
+Orientação ao estudante internacional.
+23 segunda-feira
+Início do período de protocolo de pedidos de ajustes e reformas curriculares efetuados pelos Colegiados dos Cursos de Graduação, na Pró-Reitoria de Graduação.
+Data-limite para a realização de matrícula para o 2o período letivo de 2024, pelos estudantes de Pós-Graduação lato sensu, nos Colegiados de Cursos de Pós-Graduação.
+INÍCIO DO 2o PERÍODO LETIVO DE 2024.
+23 e 24 segunda e terça-feira
+Acerto de matrícula (regular e eletiva) para o 2o período letivo de 2024, pelos estudantes de Pós-Graduação, nos Colegiados de Cursos de Pós-Graduação stricto sensu.
+Recepção aos calouros dos cursos de Graduação.
+Período para envio de requerimento de inclusão de novas atividades na matrícula (2a
+ fase) do 2o período letivo de 2024, pelos estudantes veteranos de Graduação, no
+Sistema Acadêmico de Graduação (SiGA).
+25 quarta-feira 
+Seminário Integração Docente.
+Data-limite para o lançamento de encargos didáticos para o 2o período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação, no Sistema Acadêmico de Pós-Graduação.
+30 segunda-feira
+Início do período para requerimento on-line de exame de comprovação de conhecimentos em atividades acadêmicas curriculares para o 2o período letivo de 2024, pelos estudantes de Graduação, nos Colegiados de Cursos de Graduação.
+Início do período para solicitação de matrícula (3ª fase) para o 2o período letivo de 2024 em atividades de formação livre (núcleo geral) e formação transversal (núcleo complementar), pelos estudantes veteranos de Graduação, no SiGA.
+OUTUBRO
+Belo Horizonte: 25 dias letivos (sábados letivos: 5, 19 e 26)
+Montes Claros: 25 dias letivos (sábados letivos: 5, 19 e 26)
+1 terça-feira
+Término do período para solicitação de matrícula (3a fase) para o 2o período letivo de 2024 em atividades de formação livre (núcleo geral) e formação transversal (núcleo complementar), pelos estudantes veteranos de Graduação, no SiGA.
+2 quarta-feira
+Realização de atividades acadêmicas complementares no turno noturno, em substituição às aulas dos cursos de Graduação.
+4 sexta-feira
+Resultado da solicitação de matrícula (3a fase) em atividades de formação livre (núcleo geral) e formação transversal (núcleo complementar) para o 2o período letivo de 2024 pelos estudantes veteranos de Graduação.
+Requerimento de matrícula isolada em atividades acadêmicas curriculares de Graduação e Pós-Graduação para o 2o período letivo de 2024.
+Requerimento de matrícula (4a fase) em atividades acadêmicas da Pós-Graduação (núcleo avançado) pelos estudantes de Graduação, para o 2o período letivo de 2024, nos Colegiados de Cursos de Pós-Graduação.
+Requerimento de matrícula em atividades acadêmicas curriculares de Graduação, pelos estudantes de Pós-Graduação, para o 2o período letivo de 2024, nas Unidades Acadêmicas responsáveis pela oferta das atividades.
+Data-limite para análise e lançamento da mudança de percurso curricular (modalidade ou habilitação) dos estudantes de Graduação, pelos Colegiados de Cursos de Graduação, no Sistema Acadêmico de Graduação (SiGA).
+7 e 8 segunda e terça-feira
+Apresentação de trabalhos da Semana do Conhecimento da UFMG nas Unidades Acadêmicas.
+25a UFMG Jovem.
+8 terça-feira
+Matrícula em atividades acadêmicas curriculares de Pós-Graduação pelos estudantes de Graduação, para o 2o período letivo de 2024, nas Unidades Acadêmicas responsáveis pela oferta das atividades.
+Matrícula em atividades acadêmicas curriculares de Graduação pelos estudantes de Pós-Graduação, para o 2o período letivo de 2024, nas Unidades Acadêmicas
+responsáveis pela oferta das atividades.
+Data-limite para divulgação dos resultados dos requerimentos de matrícula isolada em atividades acadêmicas curriculares para o 2o período letivo de 2024.
+9 a 14 quarta a segunda-feira
+Matrícula isolada em atividades acadêmicas curriculares de Graduação e Pós-Graduação para o 2o período letivo de 2024.
+9 terça-feira Matrícula dos estudantes de reopção nos Colegiados de Cursos de Graduação.
+Matrícula dos estudantes de continuidade de estudos visando à obtenção de novo diploma ou habilitação no 2o período letivo de 2024, nos Colegiados de Cursos de Graduação.
+Data-limite para registro acadêmico e matrícula de estudantes intercambistas de graduação ingressantes no 2o período letivo de 2024.
+11 sexta-feira
+Reformulação de matrícula dos ingressantes no 2o período letivo de 2024 do Concurso Vestibular 2024 - Habilidades que solicitaram aproveitamento de estudos, nos Colegiados de Cursos de Graduação.
+Aniversário de fundação do Instituto de Ciências Agrárias (1968).
+Data-limite para lançamento dos trabalhos finais dos estudantes que concluíram a Pós-Graduação no 1o período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação, no Sistema Acadêmico de Pós-Graduação.
+12 sábado 
+Feriado: Nossa Senhora Aparecida.
+13 domingo 
+Domingo no Campus Pampulha.
+17 quinta-feira
+Realização de atividades acadêmicas complementares no turno noturno, em substituição às aulas dos cursos de Graduação.
+18 sexta-feira
+Data-limite para lançamento dos acertos de matrícula da Pós-Graduação referentes ao 2o
+período letivo de 2024, pelo Colegiado de Cursos de Pós-Graduação, no Sistema Acadêmico de Pós-Graduação.
+21 segunda-feira 
+Aniversário de fundação da Escola de Educação Física, Fisioterapia e Terapia Ocupacional (1969).
+21 a 25 segunda a sexta-feira 
+Semana do Conhecimento da UFMG.
+23 quarta-feira
+Data-limite para requerimento de trancamento total de matrícula, sem justificativa, no 2o período letivo de 2024 para os estudantes de Graduação.
+NOVEMBRO
+Belo Horizonte: 23 dias letivos (sábados letivos: 9, 16, 23 e 30)
+Montes Claros: 23 dias letivos (sábados letivos: 9, 16, 23 e 30)
+1 sexta-feira
+Realização de atividades acadêmicas complementares no turno noturno, em substituição às aulas dos cursos de Graduação.
+1 a 5 sexta a terça feira
+Período para solicitação de mudança de percurso curricular (modalidade ou habilitação) para o 1o período letivo de 2025, pelos estudantes de Graduação, nos Colegiados de Cursos de Graduação.
+2 sábado
+Feriado: Finados.
+4 segunda-feira
+Data-limite para divulgação das vagas remanescentes de Graduação a serem ofertadas para mudança de turno e continuidade de estudos visando à obtenção de novo diploma ou habilitação para o 1o período letivo de 2025, na página eletrônica do DRCA.
+4 a 8 segunda a sexta-feira
+Período de inscrição no processo seletivo para mudança de turno para o 1o período letivo de 2025, pelos estudantes de Graduação, nos Colegiados de Cursos de Graduação.
+Período de inscrição no processo seletivo para continuidade de estudos visando à obtenção de novo diploma ou habilitação para início no 1o período letivo de 2025, no DRCA.
+6 quarta-feira Data-limite para requerimento de trancamento parcial de matrícula em atividades acadêmicas da Pós-Graduação.
+Data-limite para requerimento de trancamento parcial de matrícula, com ou sem justificativa, em atividades acadêmicas curriculares da Graduação.
+7 quinta-feira
+Término do período de protocolo de pedidos de ajustes e reformas curriculares efetuados pelos Colegiados dos Cursos de Graduação, na Pró-Reitoria de Graduação.
+15 sexta-feira 
+Feriado: Proclamação da República.
+20 quarta-feira 
+Feriado: Dia da Consciência Negra.
+20 quarta-feira
+Data-limite para solicitação da oferta de atividades acadêmicas e da alocação de encargos didáticos para o 1o período letivo de 2025, pelos Colegiados de Cursos de Pós-Graduação, aos Departamentos Acadêmicos ou estruturas equivalentes.
+22 sexta-feira
+Data-limite para requerimento de aproveitamento de estudos, pelos estudantes de Graduação, nos Colegiados de Cursos de Graduação.
+29 sexta-feira
+Data-limite para divulgação e comunicação ao DRCA dos requerimentos de continuidade de estudos visando à obtenção de novo diploma ou habilitação deferidos para o 1o período letivo de 2025, pelos Colegiados de Cursos de Graduação.
+Data-limite para lançamento e comunicação ao DRCA da relação de estudantes de Graduação com mudança de turno deferida para o 1o período letivo de 2025, pelos Colegiados de Cursos de Graduação, no Sistema Acadêmico de Graduação (SiGA).
+Término do período para requerimento on-line de exame de comprovação de conhecimentos em atividades acadêmicas curriculares para o 2o período letivo de 2024, pelos estudantes de Graduação, nos Colegiados de Cursos de Graduação.
+Data-limite para envio da oferta de atividades acadêmicas e da alocação de encargos didáticos do 1o período letivo de 2025, pelos Departamentos Acadêmicos ou
+estruturas equivalentes.
+Data-limite para divulgação das vagas remanescentes de Graduação a serem ofertadas para transferência e obtenção de novo título no 1o período letivo de 2025, na página eletrônica do DRCA.
+DEZEMBRO
+Belo Horizonte: 18 dias letivos (sábados letivos: 07, 14 e 21)
+Montes Claros: 18 dias letivos (sábados letivos: 07, 14 e 21)
+2 a 6 segunda a sexta-feira
+Período para inscrição à colação de grau pelos prováveis estudantes concluintes de Graduação do 2o período letivo de 2024, nas Unidades Acadêmicas.
+3 terça-feira
+Realização de atividades acadêmicas complementares no turno noturno, em substituição às aulas dos cursos de Graduação.
+6 sexta-feira 
+5a Jornada de Direitos Humanos.
+8 domingo
+Feriado Municipal em Belo Horizonte: Imaculada Conceição.
+09 segunda-feira
+Início do período para lançamento da oferta de atividades acadêmicas para o 1o período letivo de 2025, pelos Colegiados de Cursos de Pós-Graduação stricto sensu e lato sensu, no Sistema Acadêmico de Pós-Graduação.
+10 terça-feira 
+Aniversário de fundação da Faculdade de Direito (1892).
+16 segunda-feira 
+Início do período para colação de grau dos estudantes concluintes de Graduação do 2o período letivo de 2024.
+20 sexta-feira 
+Aniversário de fundação da Faculdade de Ciências Econômicas (1941).
+23 segunda-feira 
+Início do Recesso de Natal e de Ano Novo.
+25 quarta-feira 
+Feriado: Natal.
+31 terça-feira
+Término do período para lançamento da oferta de atividades acadêmicas para o 1o período letivo de 2025, pelos Colegiados de Cursos de Pós-Graduação stricto sensu e lato
+sensu, no Sistema Acadêmico de Pós-Graduação.
+31 terça-feira
+Data-limite para lançamento do calendário para realização da matrícula on-line para o 1o
+período letivo de 2025, pelos Colegiados de Cursos de Pós-Graduação stricto sensu, no Sistema de Matrícula da Pós-Graduação.
+2025
+JANEIRO
+Belo Horizonte: 23 dias letivos (sábados letivos: 11, 18 e 25)
+Montes Claros: 23 dias letivos (sábados letivos: 11, 18 e 25)
+1 quarta-feira 
+Feriado: Confraternização Universal.
+4 sábado 
+Término do Recesso de Natal e de Ano Novo.
+6 segunda-feira
+Início do período para registro acadêmico dos candidatos classificados nos processos seletivos de Pós-Graduação para o 1o período letivo de 2025 nos cursos de Pós-Graduação.
+Início do período de matrícula (regular e eletiva) on-line para o 1o período letivo de 2025, pelos estudantes de Pós-Graduação stricto sensu, no Sistema de Matrícula de Pós-Graduação.
+Início do período de matrícula para o 1o período letivo de 2025, pelos estudantes de Pós-Graduação lato sensu, nos Colegiados de Cursos.
+13 a 15 segunda a quarta-feira
+Período para reformulação dos planos de estudos e para a inclusão de atividades acadêmicas de Formação Complementar Aberta (núcleo complementar) para o 1o período letivo de 2025, pelos estudantes veteranos de Graduação, no Sistema Acadêmico de Graduação (SiGA).
+FEVEREIRO
+Belo Horizonte: 7 dias letivos (sábados letivos: 1 e 8)
+Montes Claros: 7 dias letivos (sábados letivos: 1 e 8)
+3 segunda-feira
+Início do período para requerimento de matrícula antecipada em atividades a serem ofertadas entre o 2o período letivo de 2024 e o 1o período letivo de 2025, nos
+Colegiados de Cursos de Graduação.
+7 sexta-feira
+Data-limite para registro acadêmico e matrícula de estudantes de Pós-Graduação stricto sensu selecionados por meio de fluxo contínuo no ano de 2024, com ingresso no 2o período letivo de 2024.
+Data-limite para envio ao DRCA da documentação para registro acadêmico de estudantes de Pós-Graduação para o 2º período letivo de 2024, pelos Colegiados de Cursos de Pós-Graduação.
+8 sábado
+Data-limite para requerimento de trancamento total de matrícula, com justificativa, conforme determinações do art. 96 da Resolução Complementar do CEPE nº 01/2018, no 2º período letivo de 2024, para os estudantes de Graduação.
+Data-limite para requerimento de trancamento total de matrícula no 2º período letivo de 2024, pelos estudantes de Pós-Graduação.
+Data-limite para fechamento dos resultados finais do 2º período letivo de 2024 em atividades acadêmicas de Graduação, pelos docentes, no Sistema Diário de Classe
+Eletrônico.
+8 sábado 
+ÚLTIMO DIA LETIVO DO 2º PERÍODO LETIVO DE 2024
+12 quarta-feira
+Data-limite para fechamento dos resultados de exames especiais do 2º período letivo de 2024, pelos docentes, no Sistema Diário de Classe Eletrônico.
+Data-limite para fechamento dos resultados finais do 2º período letivo de 2024 em atividades acadêmicas de Pós-Graduação, pelos docentes, no Sistema Diário de Classe
+Eletrônico.
+Data-limite de matrícula on-line (regular e eletiva) para o 1º período letivo de 2025, pelos estudantes de PósGraduação stricto sensu, no Sistema de Matrícula da Pós-Graduação.
+14 sexta-feira
+Data-limite para conferência dos estudantes concluintes do 2o período letivo de 2024 em continuidade de estudos, visando à obtenção de novo diploma ou habilitação deferida para o 1º período letivo de 2025, pelos Colegiados de Cursos de Graduação, no Sistema Acadêmico de Graduação (SiGA).
+Data-limite para a efetivação da matrícula (regular e eletiva) em atividades acadêmicas curriculares de pósgraduação stricto sensu para o 1º período letivo de 2025, pelos Colegiados de Cursos de Pós-Graduação, no Sistema de Matrícula da Pós-Graduação.
+20 quinta-feira
+Data-limite para a conferência dos estudantes concluintes do 2º período letivo de 2024, pelos Colegiados de Cursos de Graduação, no Sistema Acadêmico de Graduação (SiGA).
+26 a 28 quarta a sexta-feira
+Requerimento de transferência para a UFMG para ingresso no 1º período letivo de 2025, por alunos do PEC-G, junto ao DRCA.
+28 sexta-feira
+Término do período para requerimento de matrícula antecipada em atividades a serem ofertadas entre o 2º período letivo de 2024 e o 1º período letivo de 2025, nos Colegiados de Cursos de Graduação. 
+
+
+   * Onde posso conferir as salas onde serão dadas as disciplinas do Icex?
+Você pode descobrir as salas onde serão dadas as disciplinas no Icex através do site https://www.icex.ufmg.br/icex_novo/minha-salas/ 
+   * Como faço para ter acesso ao Centro Esportivo Universitário?
+Para ter acesso ao Centro Esportivo Universitário, você deve acessar o site https://www.ufmg.br/ceu/app/site/index e preencher o formulário de filiação e enviar todos os documentos necessários.
+   * Como posso fazer um intercâmbio?
+O Programa de Mobilidade Acadêmica possibilita aos alunos de Instituições Federais de Ensino Brasileiras, por meio de intercâmbio nacional e internacional, trocarem experiências acadêmicas para o seu enriquecimento cultural e científico. 
+
+
+Programas
+A UFMG estimula a mobilidade acadêmica, contando com iniciativas da Pró-Reitoria de Graduação (Prograd), da Diretoria de Relações Internacionais (DRI) e da Fundação Universitária Mendes Pimentel (Fump). Esses órgãos são responsáveis pela divulgação de oportunidades, seleção de alunos para programas de mobilidade nacional (Prograd) e internacional (DRI), e viabilização de auxílio financeiro a estudantes, conforme a disponibilidade orçamentária da Universidade e o grau de carência do estudante, mediante avaliação da Fump.
+
+
+A Universidade participa de diversos programas que promovem o intercâmbio. Conheça:
+- Minas Mundi (https://www.ufmg.br/dri/programas/aluno-da-ufmg/editais-anteriores/minas-mundi/): programa de mobilidade internacional, criado e implementado pela UFMG, promove o intercâmbio acadêmico de alunos de graduação com as instituições estrangeiras conveniadas.
+- Chamada Unificada para Habilitação em Programas Ibero-Latino Americanos (https://www.ufmg.br/dri/chamada-unificada-para-habilitacao-em-programas-ibero-latino-americanos/): seleciona estudantes para preencherem vagas de mobilidade em diversas universidades da América Latina, Portugal e Espanha. São oferecidas vagas em diferentes programas de mobilidade internacional, tais como: Escala Estudantil, Marca, entre outros.
+- Programa de Mobilidade Acadêmica (https://www2.ufmg.br/prograd/prograd/Pro-Reitoria-de-Graduacao/Pro-Reitoria/Mobilidade-Estagio-e-Bolsas/Setor-de-Estagios-e-Mobilidade-Academica) oferece aos estudantes de graduação a possibilidade de realização de estudos em outras instituições federais de ensino superior brasileiras por até, no máximo, um ano.
+- Mobilidade livre (https://www.ufmg.br/dri/programas/mobilidade-livre/): além dos programas de mobilidade promovidos pela UFMG, os estudantes interessados em fazer intercâmbio em outro país podem realizar a mobilidade livre, na qual o próprio aluno entra em contato com a instituição conveniada, sem a mediação de um programa preestabelecido.
+- Capes/Print (https://www.ufmg.br/prpg/capes-print/): Projeto Institucional de Internacionalização da Pós-Graduação (CAPES/PrInt) para apoio a quatro modalidades: Doutorado-Sanduíche no Exterior; Professor Visitante Júnior e Sênior no Exterior; Professor Visitante Estrangeiro para atuação na UFMG; Recém-Doutores e Jovens Talentos para atuação na UFMG.
+- Outras oportunidades (https://www.ufmg.br/dri/programas/aluno-da-ufmg/): programas diversos de mobilidade internacional oferecidas por agências de fomento ao intercâmbio são divulgadas periodicamente no site da DRI.
+
+
+Convênios com instituições estrangeiras
+Saiba quais são as instituições estrangeiras com as quais a UFMG mantém convênio com fins de intercâmbio estudantil e de pesquisa, acessando este link (https://www.ufmg.br/dri/instituicoes-parceiras-2/).
+
+
+Contatos
+Mobilidade internacional: Diretoria de Relações Internacionais
+E-mail: comunica@dri.ufmg.br
+Mobilidade nacional: Pró-reitoria de Graduação
+E-mail: estagio@prograd.ufmg.br
+
+
+   * Qual o passo a passo para realização de TCC?
+
+
+        O trabalho de conclusão de curso (TCC) varia de acordo com o curso da UFMG, em determinados momentos apresentando obrigatoriedade e em outros não. Caso o TCC seja obrigatório, ele pode ser realizado de diversas formas, como por meio da elaboração de um artigo científico,  por meio da criação de um recurso ou produto Educacional ou via o desenvolvimento de uma monografia de curso. É recomendado consultar a grade do seu curso e avaliar as opções junto ao colegiado de cada faculdade para compreender melhor o que é solicitado em cada curso de graduação em específico. 
+        Vale ressaltar que independente da opção feita pelo cursista, o trabalho final do curso deve incorporar um registro escrito adequado às diretrizes para normalização de trabalhos acadêmicos da UFMG. As diretrizes para normalização de trabalho acadêmicos da UFMG podem ser encontrados aqui:                                              https://repositorio.ufmg.br/static/politica/diretrizes-para-normalizacao-de-trabalhos-academicos-da-UFMG.pdf
+   
+
+
+   * Qual o passo a passo para emissão de diploma?
+
+
+Para estudantes de graduação da UFMG, os mesmos devem procurar as seções de ensino/colegiados de seus cursos, para solicitar a colação de grau e apresentar a documentação necessária. É importante que a documentação apresentada esteja atualizada, pois estudantes de graduação recebem diplomas digitais, que não podem ser corrigidos.
+
+
+Para estudantes de pós-graduação da UFMG, estes devem entrar em contato com as secretarias de seus respectivos cursos e solicitar a emissão de seus diplomas/certificados. Após o requerimento, o setor responsável emitirá o diploma e o encaminhará para o DRCA (Departamento de Registro e Controle Acadêmico) para o registro, que é o ato que confere validade nacional ao diploma.
+
+
+O DRCA também é responsável pelo registro de diplomas de outras 20 instituições de ensino superior. O apostilamento de novas habilitações concluídas também passa pelo processo de registro no DRCA.
+
+
+Para obter informações a respeito do andamento do processo, recomendamos utilizar prioritariamente o e-mail drd@drca.ufmg.br.
+
+
+
+
+   * Como fazer flexibilização horizontal? Como reaproveitar créditos para integralizar disciplinas optativas.
+
+
+A flexibilização horizontal ocorre por meio do reaproveitamento de créditos por meio  de atividades Complementares Geradoras de Crédito (ACGC), como: 
+
+
+   * Participação em Eventos  
+   * Educação à Distância  
+   * Discussões Temáticas  
+   * Iniciação à Pesquisa, Docência e Extensão  
+   * Vivência Profissional Complementar  
+   * Atividades Acadêmicas Complementares
+        
+Para utilização das horas, deverão ser preenchidos formulários comprovando a atividade e serem enviados para o colegiado de cada respectiva universidade. 
+
+
+Escola de Arquitetura 
+https://www.arq.ufmg.br/ea/tab-forms-2019/
+
+
+Escola de Belas Artes 
+https://www.eba.ufmg.br/designdemoda/index.php/instrucoes-para-aproveitamento-de-creditos-em-atividades-complementaresaacc/
+
+
+Escola de Ciências da Informação
+https://graduacoes.eci.ufmg.br/atividades-complementares-geradoras-de-creditos/
+
+
+Escola de Educação Física, Fisioterapia e Terapia Ocupacional 
+http://www.eeffto.ufmg.br/eeffto/DATA/UserFiles/files/001%202021%20-%20Atividade%20complementar%20APROVADA.pdf
+
+
+Escola de Enfermagem 
+https://www.enf.ufmg.br/index.php/flexibilizacao-curricular-integralizacao-de-creditos
+
+
+Escola de Engenharia 
+https://www.demin.ufmg.br/noticiadet.php?numaut=258
+
+
+Escola de Música
+https://musica.ufmg.br/wp-content/uploads/2020/06/AGC-Atividade-geradora-de-creditos.doc.rtf
+
+
+Escola de Veterinária
+https://vet.ufmg.br/disciplina/atividades-integradoras-de-formacao-i-vet030/
+
+
+
+
+Faculdade de Ciências Econômicas 
+https://www.face.ufmg.br/institucional/setores-administrativos/centro-de-graduacao.html
+
+
+Instituto de Ciências Exatas
+https://dcc.ufmg.br/wp-content/uploads/Resolucao-Estagio-02_2020BCC.pdf
+
+
+
+
+
+
+
+
+
+
+   * Como posso ter acesso ao auxílio estudantil?
+Os benefícios oferecidos pela Fump são para os estudantes de graduação de cursos presenciais da UFMG, regularmente matriculados e frequentes que necessitam de algum apoio para sua permanência na Universidade. 
+
+
+O procedimento para solicitar a análise socioeconômica é bem simples. O estudante que preenche e reúne os documentos de forma correta recebe uma resposta em, no máximo, 30 dias. A seguir os passos para solicitar a análise socioeconômica: 
+
+
+01 - Ser estudante da UFMG – A Fump é voltada exclusivamente para a assistência aos estudantes de graduação de cursos presenciais da UFMG regulamente matriculados e frequentes. 
+02 - Preencher questionário socioeconômico – A solicitação da análise socioeconômica é feita pelo estudante, a partir do preenchimento do questionário. Todas as informações, como escolaridade, renda e bens do alunos e dos membros do núcleo familiar, devem ser fornecidas com total veracidade. Os estudantes podem preencher o questionário em qualquer época do ano.
+03 - Reunir documentos - Após o preenchimento do questionário, a Fump enviará para o e-mail do estudante uma lista específica de documentos de acordo com as informações registradas. Exemplo: se o estudante responder que os pais são divorciados, na lista será solicitada a certidão de casamento com averbação de divórcio e o comprovante de pensão alimentícia. É necessário que os documentos sejam scaneados e salvos no formato PDF.
+04 - Análise – A Fump possui uma metodologia específica de análise socioeconômica composta por um conjunto de indicadores sociais, econômicos e culturais. Alguns desses indicadores são pontuados e comporão uma expressão matemática, cujo resultado determinará o nível de classificação do estudante.
+05 - Entrevista – Se houver qualquer dúvida em relação aos dados informados pelo estudante, ele será chamado para uma entrevista com um assistente social. Em alguns casos é realizada também visita domiciliar ou são solicitados documentos complementares.
+06 - Resultado – O estudante recebe, por e-mail, o resultado de sua análise socieconômica. Os alunos que, no conjunto dos indicadores sociais, econômicos e culturais de seu contexto familiar, não conseguem manter suas necessidades básicas e complementares na Universidade podem ser classificados em:   
+
+
+- Nível I: estudantes de família de baixa renda, cuja condição socioeconômica desfavorecida lhe restringe as oportunidades de capacitação e inclusão. Ele apresenta indícios de vulnerabilidade social caso não receba apoio para suprir suas necessidades básicas e corre risco de evasão logo no início de sua trajetória acadêmica.
+- Nível II: estudante de famílias de baixa renda, cuja condição socioeconômica desfavorecida lhe dificulta a permanência na UFMG até a conclusão de seus estudos. Embora possua suporte familiar um pouco mais consistente, caso não receba apoio para suprir suas necessidades básicas, poderá ficar retido por mais tempo para a integralização do curso ou até mesmo não conseguir concluir a graduação.
+- Nível III: estudante que necessita de apoio para transposição de alguns impedimentos ao bom desempenho acadêmico, amenizando, assim, as dificuldades que apresenta.
+- Níveis IV-A e IV-B: esses níveis são exclusivos para acesso aos Restaurantes Universitários através de preços subsidiados e têm como critério a renda per capita do grupo familiar. Os estudantes com renda familiar até um salário mínimo per capita pagam R$ 2,00 por refeição, e são classificados no Nível IV-A. Alunos com renda familiar de um a três salários mínimos per capita desembolsam o valor de R$ 2,90 por refeição e são classificados no Nível IV-B.
+07 - Acesso aos benefícios – Após o resultado da classificação socioeconômica o estudante acessa automaticamente os Restaurantes Universitários (RUs) com o preço reduzido conforme sua classificação socioeconômica, apresentando a carteirinha da UFMG no caixa do RU. O aluno também tem acesso imediato ao Programa de Assistência à Saúde da Fump.
+Para acessar o Programa de Moradia Universitária o estudante precisa realizar sua inscrição e aguardar a seleção de vagas. Para acessar os auxílios financeiros, o aluno deve aguardar o período de manifestação de interesse em cada Programa. Em ambos os processos o aluno precisará também agendar horário de atendimento com o assistente social de referência do seu curso.
+08 - Tentar outra vez - O estudante que passou por análise socioeconômica e não foi classificado pode solicitar nova análise, caso ocorra alguma alteração em seu contexto familiar. O aluno não precisa preencher novo questionário, já que seus dados estão registrados no sistema. Nesse caso o aluno deverá comparecer pessoalmente no Núcleo de Escuta na Unidade da Fump, localizada no Campus Pampulha ao lado do Restaurante Setorial II, para entrevista com o assistente social.
+09 - Renovação – Por um período de no máximo dois anos, os estudantes assistidos devem renovar a análise socioeconômica. Com um mês de antecedência é enviado um e-mail para os alunos com as orientações para esse procedimento. É importante que eles atendam a convocação no prazo estipulado para que o acesso aos programas não seja prejudicado. Caso não recebam o e-mail, os estudantes devem procurar a Fump.
+
+
+Acesse aqui o Questionário Socioeconômico (http://sinae.fump.ufmg.br/sinaeWeb/login.jsf)
+
+
+   * Como posso ter acesso à Moradia Universitária?
+O Programa Permanente de Moradia Universitária foi instituído em 6 de novembro de 1997 pelo Conselho Universitário da Universidade Federal de Minas Gerais (UFMG). O Programa oferece habitação para estudantes não residentes em Belo Horizonte e Montes Claros, proporcionando sua inserção na comunidade acadêmica.
+
+
+O Programa visa, também, facilitar o intercâmbio de professores, funcionários e visitantes da UFMG com outras instituições e outros povos, contribuindo para o cumprimento dos objetivos institucionais do ensino, da pesquisa e da extensão.
+
+
+Acesso ao Programa Permanente de Moradia Universitária
+Podem acessar as vagas no Programa Permanente de Moradia Universitária todos os estudantes de graduação  da UFMG regularmente matriculados, frequentes na UFMG e que não residem em Belo Horizonte e Montes Claros.
+O acesso a uma vaga no Programa de Moradia Universitária não ocorre de forma imediata. É necessário que o estudante se inscreva no Programa de Moradia e aguarde o processo de seleção de vagas, que geralmente ocorre no segundo mês de cada semestre letivo, dependendo do número de vagas disponíveis.
+Para se candidatar a uma vaga, o estudante deve preencher o formulário de inscrição (https://www.fump.ufmg.br/conteudo.aspx?pagina=116) no portal da Fump. Os dados fornecidos nos formulários de inscrição devem ser comprovados de acordo com o regulamento da inscrição.
+As inscrições têm validade semestral, devendo ser renovadas no início de cada semestre letivo.
+Os candidatos que forem classificados socioeconomicamente pela Fump nos níveis I, II e III devem preencher o formulário destinado à estudantes assistidos pela Fundação e agendar com assistente social de acompanhamento na sede da Fump ou na Unidade Montes Claros.
+
+
+Critérios de ocupação
+Os critérios de ocupação são definidos conforme os artigos 2º e 3º do Regimento Interno do Programa Permanente de Moradia Universitária:
+I - Dentre os estudantes de graduação da UFMG, pela ordem:
+A - Estudantes matriculados no seu 1º curso de graduação .
+B - Estudantes matriculados no 1º ou no 2º período dos respectivos cursos.
+
+
+II - Dentre os professores e funcionários, pela ordem:
+A - Professores e funcionários recém-admitidos na UFMG, procedentes de outras localidades.
+B - Professores e funcionários visitantes, convidados para desenvolvimento de atividades acadêmicas na UFMG.
+
+
+Termo de Ocupação
+Os candidatos contemplados com vagas devem assinar o Termo de Ocupação, que corresponde à autorização de permanência na Moradia Universitária, e proceder de acordo com as normas definidas pelos Regimentos e Regulamentos do Programa Permanente de Moradia Universitária. Uma cópia desses Regimentos e Regulamentos é entregue ao estudante morador no ato da ocupação da vaga.
+O Termo de Ocupação da Moradia Universitária deve ser renovado semestralmente, através de solicitação feita pelo estudante morador à administração da mesma. Após a aceitação do pedido é realizada a assinatura do novo termo de ocupação.
+
+Acesso ao Programa de Moradia Universitária
+Para se candidatar a uma vaga o estudante deve estar regularmente matriculado na UFMG e não residir em Belo Horizonte ou Montes Claros.
+O acesso a uma vaga no Programa de Moradia Universitária não ocorre de forma imediata. É necessário que o estudante se inscreva no Programa de Moradia e aguarde o processo de seleção de vagas.
+
+
+Informações importantes
+- Os candidatos classificados socioeconomicamente pela Fump nos níveis I, II e III deverão efetuar a inscrição e agendar entrevista com um assistente social da Fump.
+- Existe um prazo preestabelecido para a ocupação da vaga, após a seleção do estudante. Após o vencimento desse prazo o candidato será considerado desistente. Por isso, ao se inscrever, o aluno deve ficar atento para fornecer o seu endereço completo para que, caso seja selecionado, a Fump entre em contato com ele em tempo hábil para a ocupação da vaga.
+- As inscrições estão permanentemente abertas, porém só são válidas para o semestre em que foram realizadas. Assim, caso o estudante não seja contemplado no semestre em que realizou sua inscrição, ele deverá se inscrever novamente no semestre seguinte para concorrer à vaga no programa.
+- O estudante que não realizar todas as etapas do processo de inscrição não participará do processo de seleção de vagas.
+- Participar do processo de inscrição não significa a garantia da vaga. É necessário participar da etapa final, que é a seleção de vagas.
+Documento exigido para a comprovação dos dados
+- Cópia do comprovante de residência da cidade de origem  (conta de água, luz ou telefone fixo).
+
+
+Inscrições Belo Horizonte e Montes Claros
+http://sinae.fump.ufmg.br/sinaeWeb/LoginAluno
+
+
+   * Para que serve o Plano de Estudos?
+É um sistema online que visa a apoiar o planejamento e o acompanhamento da
+trajetória acadêmica do aluno na UFMG. O plano de estudos reflete a versão e o percurso curricular de vinculação do aluno e é organizado em semestres cursados, em curso e a cursar:
+Nos semestres “a cursar” o aluno poderá planejar as atividades que deseja
+cursar;
+Nos semestres “cursados” o aluno poderá visualizar os resultados obtidos;
+No semestre “em curso” é possível visualizar as matrículas atuais.
+POR QUE REFORMULAR O PLANO DE ESTUDOS?  Porque a universidade usará as informações dos Planos de Estudos para prever melhor a demanda de vagas para as turmas das atividades acadêmicas, visando a otimizar o processo de matrículas. Além disso, o aluno pode ter prioridade para matricular-se em matérias que estão no seu plano de estudos.
+O QUE VOCÊ PODE FAZER NO SEU PLANO DE ESTUDOS?
+Criar um Plano de Estudos Simulado que permite investigar as possibilidades
+de seu curso.
+Adicionar, excluir e mover as atividades optativas e de formação livre;
+Adicionar semestres letivos, até o limite do seu tempo de integralização.
+Mover as atividades OBRIGATÓRIAS nos semestres letivos, respeitadas as
+Normas de Graduação.
+Adicionar as atividades de Formação Complementar Aberta que deverão ser
+enviadas ao Colegiado do seu Curso, via Siga, para aprovação (caso o aluno
+esteja vinculado a um percurso de formação complementar aberta).
+Consultar a integralização do seu Plano de Estudos.
+
+
+
+
+   * Como faço para pegar livros emprestados da biblioteca?
+        
+        Existem 04 formas de solicitar um empréstimo nas bibliotecas da UFMG: o empréstimo domiciliar, o empréstimo especial, o empréstimo rápido e o empréstimo entre as bibliotecas. 
+
+
+Empréstimo Domiciliar:
+Retirada de materiais por período determinado de tempo, sendo exclusivo para os usuários com vínculo com a UFMG, tais como alunos de graduação, pós-graduação, educação básica e técnica, professores, servidores e contratados.
+
+
+As tabelas  1 e 2  apresentam a quantidade de itens que podem ser emprestados por categoria de usuário e número de dias de empréstimo por biblioteca.
+
+
+TABELA 1: Empréstimo para as obras do acervo das bibliotecas do Campus Pampulha, Direito, Arquitetura e Instituto de Ciências Agrárias (ICA)
+Categoria de usuário                                                                                                          Itens     Dias
+Alunos do Ensino Fundamental
+  1º e 2º ano                                                                                                                           1       14
+  3º e 4º ano                                                                                                                           3       14
+  5º ao 9º ano                                                                                                                         5       14
+
+
+Alunos do ensino técnico, da educação de jovens e adultos (EJA) e da
+graduação, servidores, funcionários contratados, residentes e menores da Cruz
+Vermelha                                                                                                                               5       14
+
+
+Professores e alunos da pós-graduação                                                                               7       28
+
+
+Professores e alunos da pós-graduação da Escola de Veterinária e do Instituto
+de Ciências Agrárias                                                                                                             7       14
+
+
+
+
+
+
+TABELA 2: Empréstimo para as obras do acervo das bibliotecas do Campus Saúde
+
+
+Categoria de usuário                                                                                 Itens     Dias
+Alunos de graduação, servidores e residentes médicos                              5         7
+Professores e alunos da pós-graduação                                                      7         7
+
+
+
+
+
+
+Empréstimo Especial: 
+Permite ao usuário fazer empréstimo de obras muito requisitadas, por tempo reduzido, por exemplo duas horas. Nessa modalidade pode ser feito também o empréstimo overnight, ou seja, essas obras podem ser emprestadas nas véspera dos finais de semanas e feriados com a devolução para o próximo dia útil.
+
+
+Empréstimo Rápido:
+Permite que usuários sem vínculo com a UFMG retirem como empréstimo materiais das bibliotecas por até duas horas. Esse tipo de empréstimo só é possível após preenchimento de formulário e retenção de documento de identidade durante o período de empréstimo.
+
+
+Empréstimo entre Bibliotecas:
+Convênio firmado com bibliotecas de outras instituições. Permite que usuários com vínculo na UFMG realizem o empréstimo em outras instituições, também permite que pessoas com veículos em outras Instituições façam empréstimo nas bibliotecas da UFMG.  Para fazer o empréstimo o usuário precisa fazer a solicitação da obra desejada no setor de Referência da Biblioteca da Unidade Acadêmica do seu curso.
+
+
+Além disso, também é possível a realização de reserva do empréstimo. O serviço de reserva online permite que obras emprestadas sejam reservadas pelos usuários. Para que o sistema permita a reserva, é necessário que todos os exemplares do título desejado estejam emprestados no catálogo on-line (https://catalogobiblioteca.ufmg.br/pergamum/biblioteca/index.php). Na página de acesso ao usuário é possível ver quando a obra que foi reservada fica disponível. O aviso é exibido na página de acesso do usuário, informando a disponibilidade da obra na biblioteca proprietária do material. 
+
+
+O usuário tem o prazo de 24 horas para retirar a obra reservada no setor de empréstimo da biblioteca. Nesse prazo, deve-se considerar o horário de funcionamento da biblioteca. Caso o usuário não retire a obra no prazo de 24 horas, o material será liberado para outro usuário que esteja na lista de reserva da obra, caso não haja mais reservas, o material voltará para o acervo, onde ficará disponível para empréstimo.
+   
+
+
+        
+   * Como faço para trancar uma disciplina?
+Para trancar uma disciplina, você precisa entrar no Siga UFMG, acessar a parte de “Meus Requerimentos de Ocorrências” e criar um novo requerimento, selecionando o trancamento da disciplina e se seria com ou sem justificativa.
+   * Como funciona a formação livre?
+Disciplinas de Formação Livre são disciplinas que proverão formação básica em áreas fora da Ciência da Computação e da Informação e da Administração, com o objetivo de ampliar a formação horizontal dos alunos.
+   * Quais eventos estão disponíveis essa semana/esse mês na UFMG? 
+
+
+30 de julho 
+Open Conference da Brazil-China Summer School on Legal Studies
+Link: https://www.ufmg.br/dri/noticia/34440/
+
+
+30 de julho - 11:00 
+Palestra – The Hows and Whys of Higher-Order SMT
+Link: https://dcc.ufmg.br/palestra-the-hows-and-whys-of-higher-order-smt/
+
+
+
+
+30 de julho - 15:00
+Palestra Pública Anual de Destaque da ARUA e Lançamento do Relatório de Perfis de Universidades da ARUA
+Link: https://www.ufmg.br/dri/noticia/segunda-palestra-publica-anual-de-destaque-da-arua-e-lancamento-do-relatorio-de-perfis-de-universidades-da-arua/
+
+
+31 de julho 
+Ocupação Paulo Nazareth
+Link: https://ufmg.br/comunicacao/eventos/ocupacao-paulo-nazareth-na-fae-esta-aberta-a-visitacao-ate-o-fim-de-julho
+
+
+03 de agosto - 15:00 
+Visita mediada à instalação “Extratos do tempo”, no Espaço do Conhecimento 
+Link: https://ufmg.br/comunicacao/eventos/sabado-as-15h-visita-mediada-a-instalacao-extratos-do-tempo-no-espaco-do-conhecimento
+
+
+09 de agosto - 15:00
+Grande Conferência Multidisciplinarity, Interdisciplinarity, and Transdisciplinarity: definitions, measurement, and effectiveness
+Link: https://ufmg.br/comunicacao/assessoria-de-imprensa/release/magda-fontana-da-universidade-de-turim-participa-de-serie-de-eventos-na-ufmg-em-agosto
+
+
+10 de agosto - 8:00 a 18:00
+Curso de extensão em plantas medicinais e fitoterápicos
+Link: https://ufmg.br/comunicacao/eventos/curso-de-extensao-em-plantas-medicinais-e-fitoterapicos
+
+
+10 de agosto - 10:00
+Lançamento do livro "Ensaios sobre a Gita" - Centro de Estudos Indianos
+Link: https://www.ufmg.br/dri/noticia/cei-dri-promove-evento-de-lancamento-do-livro-ensaios-sobre-a-gita/#:~:text=O%20lan%C3%A7amento%20acontecer%C3%A1%20no%20dia,leitura%20de%20trechos%20da%20obra.
+
+
+12 de agosto a 18 de novembro
+Curso 'Recepção teatral e estudos do espetáculo'
+Link: https://ufmg.br/comunicacao/eventos/curso-recepcao-teatral-e-estudos-do-espetaculo
+
+
+
+
+
+
+
+
+
+
+   * Quais são as áreas de conhecimento do professor fulano? 
+Pensei em linkar isso ao Lattes do professor (https://somos.ufmg.br/). No site tem o nome de todos os professores + o link do Lattes deles. 
+   * Qual a grade obrigatória do curso de Ciência da Computação?
+1º período:
+CAD011-DIG - ADMINISTRACAO
+DCC050-DIG - INTRODUCAO A CIENCIA DA COMPUTACAO
+DCC203-DIG - PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I
+DCC638-DIG - INTRODUÇÃO À LÓGICA COMPUTACIONAL
+MAT038-DIG - GEOMETRIA ANALITICA E ALGEBRA LINEAR
+2º período:
+DCC204-DIG - PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE II
+DCC216-DIG - MATEMÁTICA DISCRETA
+DCC639-DIG - ÁLGEBRA LINEAR COMPUTACIONAL
+ECN140-DIG - INTRODUÇÃO À ECONOMIA
+MAT001-DIG - CALCULO DIFERENCIAL E INTEGRAL I
+3º período:
+DCC011-DIG - INTRODUCAO A BANCO DE DADOS
+DCC114-DIG - INTRODUCAO AOS SISTEMAS LOGICOS
+DCC205-DIG - ESTRUTURAS DE DADOS
+EST032-DIG - PROBABILIDADE
+MAT039-DIG - CALCULO DIFERENCIAL E INTEGRAL II
+4º período:
+DCC006-DIG - ORGANIZACAO DE COMPUTADORES I
+DCC129-DIG - FUNDAMENTOS DA TEORIA DA COMPUTACAO
+DCC206-DIG - ALGORITMOS I
+DCC212-DIG - INTRODUÇÃO À CIÊNCIA DOS DADOS
+MAT034-DIG - ALGEBRA A
+5º período:
+DCC024-DIG - LINGUAGENS DE PROGRAMACAO
+DCC035-DIG - PESQUISA OPERACIONAL
+DCC207-DIG - ALGORITMOS II
+MAT040-DIG - EQUACOES DIFERENCIAIS C
+6º período:
+DCC053-DIG - COMPILADORES I
+DCC603-DIG - ENGENHARIA DE SOFTWARE
+DCC605-DIG - SISTEMAS OPERACIONAIS
+FIS156-DIG - INTRODUÇÃO À FÍSICA ESTATÍSTICA COMPUTACIONAL
+7º período:
+DCC023-DIG - REDES DE COMPUTADORES
+DCC636-DIG - ÉTICA NA COMPUTAÇÃO
+DCC641-DIG - FUNDAMENTOS DE SISTEMAS PARALELOS E DISTRIBUÍDOS
+DCC642-DIG - INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL
+8º período:
+DCC637-DIG - COMPUTAÇÃO E SOCIEDADE
+9º período:
+DCC604-DIG - PROJETO ORIENTADO EM COMPUTACAO I
+10º período:
+DCC009-DIG - PROJETO ORIENTADO EM COMPUTACAO II
+
+
+   * Onde consigo obter informações sobre as disciplinas que serão ofertadas no semestre?
+É possível ver quais disciplinas serão ofertadas acessando o site https://dcc.ufmg.br/category/oferta-de-disciplinas/ 
+   * Quais as disciplinas, e seus respectivos professores, serão ofertadas no próximo semestre?
+As disciplinas serão:
+Álgebra Linear Computacional (Alexandre Salles da Cunha e Ana Paula Couto da Silva), Algoritmos I (Antonio Alfredo Ferreira Loureiro e  Guilherme de Castro Mendes Gomes), Algoritmos II (Renato Vimieiro), Algoritmos para Bioinformática (Raquel Cardoso de Melo Minardi), Ambientes de Computação (Raquel Cardoso de Melo Minardi), Análise Numérica (Cristiano Arbex Valle, Letícia Pereira Pinto e Martín Gomez Ravetti), Cálculo Numérico (Cristiano Arbex Valle, Frederico Gadelha Guimarães, Letícia Pereira Pinto, Lianny Sanchez Lopez, Loic Pascal Gilles Cerf), Compiladores (Renato Antônio Celso Ferreira), Computação e Sociedade (Dorgival Olavo Guedes Neto), Empreendimentos em Informática (Adriano César Machado Pereira), Engenharia de Software (Eduardo Magno Lages Figueiredo e Marco Túlio de Oliveira Valente), Engenharia de Software II (André Cavalcante Hora), Estrutura de Dados (Eder Ferreira de Figueiredo e Wagner Meira Júnior), Ética na computação (Fabrício Benevenuto de Souza), Fundamentos da Teoria da Computação (Mario Sérgio Ferreira Alvim Júnior), Fundamentos de Ciência de Dados (Flávio Vinicius Diniz de Figueiredo), Fundamentos de Sistemas de Informação (Douglas Guimarães Macharet), Fundamentos de Sistemas Paralelos e Distribuídos (Dorgival Olavo Guedes Neto), Interação Humano-Computador (Raquel Oliveira Prates), Introdução à Arquitetura de Computadores (Daniel Fernandes Macedo), Introdução à Banco de Dados (Clodoveu Augusto Davis Júnior, Pedro Saint Clair Garcia e Rodrygo Luis Teodoro Santos), Introdução à Ciência da Computação (Thiago Ferreira de Noronha), Introdução à Ciência de Dados (Flávio Vinicius Diniz de Figueiredo), Introdução à Informática (Anísio Mendes Lacerda), Introdução à Inteligência Artificial (Gisele Lobo Pappa), Introdução à Lógica Computacional (Haniel Moreira Barbosa e Olga Nikolaevna Goussevskaia), Introdução à Programação de Computadores (João Guilherme Maia de Menezes, José Lopes de Siqueira Neto e Rodrigo de Carvalho), Introdução aos Sistemas Lógicos (Marcos Augusto Menezes Vieira e Michele Nogueira Lima), Linguagens de Programação (Fernando Magno Quintão Pereira e Márcio Costa Santos), Matemática Discreta (Antonio Alfredo Ferreira Loureiro e Jeroen Antonius Maria Van de Graaf), Organização de Computadores (Daniel Fernandes Macedo e Omar Paranaiva Vilela Neto), Pesquisa Operacional (Márcio Costa Santos), Programação de Computadores (Daniel Fernandes Macedo, George Luiz Medeiros Teodoro, Gilberto Medeiros Ribeiro, João Guilherme Maia de Menezes, João Guilherme Maia de Menezes, José Lopes de Siqueira Neto, Rodrigo de Carvalho e William Robson Schwartz), Programação e Desenvolvimento de Software I (Adriano Alonso Veloso, Anísio Mendes Lacerda, Clodoveu Augusto Davis Júnior, Fabrício Benevenuto de Souza, Heitor Soares Ramos Filho, Max Vieira Santiago, Max Vieira Santiago e Frederico Gadelha Guimarães), Programação e Desenvolvimento de Software II (Evellyn Soares Cavalcante, Luiz Chaimowicz, Pedro Saint Clair Garcia, Rodrigo de Carvalho e Thiago Ferreira de Noronha), Projeto e Análise de Algoritmos (Olga Nikolaevna Goussevskaia e Vinícius Fernandes dos Santos), Redes de Computadores (Aldri Luiz dos Santos, Ítalo Fernando Scotá Cunha, Luiz Filipe Menezes Vieira e Marcos Augusto Menezes Vieira), Robótica Móvel (Douglas Guimarães Macharet), Sistemas Operacionais (George Luiz Medeiros Teodoro e Ítalo Fernando Scotá Cunha)[a]
+
+
+   * Quais são os laboratórios e seus respectivos temas de pesquisa que o DCC possui?
+   * O DCC possui 27 laboratórios de pesquisa, sendo eles:
+   * CAMPS - Centro de Análise e Modelagem de Performance de Sistemas; PENSi - Núcleo de Pesquisa em Engenharia Semiótica e Interação; INSCRYPT - Laboratório de Segurança da Informação, Criptografia, Privacidade e Transparência; Laboratório Multidisciplinar de Pesquisa em Jogos; CS+x - Laboratório de Computação Interdisciplina; lab-soft - Laboratório de Engenharia de Software; LaC - Laboratório de Compiladores; LaPO - Laboratório de Pesquisa Operacional; Uai Lab - Uncertainty in Artificial Intelligence Lab; LATIN - Laboratório para Tratamento da Informação; LBD - Laboratório de Banco de Dados; LBS - Laboratório de Bioinformática e Sistemas; LECOM - Laboratório de Engenharia de Computadores; LLP - Laboratórios de Linguagens de Programação; LoCuS - Laboratório de Computação Social; LUAR - Laboratório de Universalização de Acesso; NanoComp - Laboratório de Nanotecnologia Computacional e Nanocomputação; FutureLab; PATREO - Pattern Recognition and Earth Observation; SENSE - Smart Sense; SPEED - System Performance Evaluation and Experimental Development; Synergia - Laboratório de Engenharia de Software e Sistemas; T-REX - Theory Expertise Laboratory; VeRLab - Laboratório de Visão Computacional e Robótica; VoD - Laboratório de Vídeo sob Demanda; WiNet - Laboratório Wireless Networks e WISEMAP
+   * Onde consigo informações sobre vagas de Iniciação Científica e Estágio?
+   * É possível obter informações sobre Iniciação Científica e Estágio relacionadas ao DCC acessando o site https://dcc.ufmg.br/oportunidades/ 
+   * Qual é a carga horária necessária para eu me formar em Ciência da Computação?
+A carga horária necessária para se formar em Ciência da Computação são de 3240 horas
