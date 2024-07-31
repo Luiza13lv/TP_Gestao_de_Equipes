@@ -45,3 +45,4 @@ Para configurar e executar o projeto automaticamente no Windows, siga os passos 
    ```bash
    ./config_and_run.bat
    ```
+2. Acesse http://localhost:3000
