@@ -38,7 +38,7 @@ O projeto inclui um [arquivo](Presentation.pdf) de apresentação em PDF, que de
 
 ### Configuração Automática
 
-Para configurar e executar o projeto automaticamente, siga os passos abaixo:
+Para configurar e executar o projeto automaticamente no Windows, siga os passos abaixo:
 
 1. Execute o script [`config_and_run.bat`](config_and_run.bat) localizado no diretório raiz do projeto:
 
