@@ -30,19 +30,37 @@ O projeto tem como principais objetivos:
 
 O projeto inclui um [arquivo](Presentation.pdf) de apresentação em PDF, que detalha os conceitos, objetivos e o protótipo desenvolvido. Esse documento pode ser acessado no diretório do projeto para uma visão geral completa do trabalho realizado pelo grupo.
 
-## Configuração do Projeto
+## Configuração e Execução do Projeto
 
-### Pré-requisitos
+### Atenção
+
+- **API_KEY**: O projeto está utilizando uma API_KEY privada, que será disponibilizada até o final do semestre letivo da UFMG. Após esse período, para executar o projeto, cada usuário deverá configurar sua própria API_KEY.
+
+### Configuração no Windows
+
+#### Requisitos
 
 - [Node.js](https://nodejs.org/en) instalado
 
-### Configuração Automática
+No diretório raiz do projeto, você encontrará um arquivo chamado `config_and_run.bat`. Este script é responsável por configurar o ambiente e iniciar o projeto.
 
-Para configurar e executar o projeto automaticamente no Windows, siga os passos abaixo:
+Para executar o script:
 
-1. Execute o script [`config_and_run.bat`](config_and_run.bat) localizado no diretório raiz do projeto:
+- Clique duas vezes no arquivo `config_and_run.bat` ou
+- Abra o Prompt de Comando, navegue até o diretório do projeto e execute o comando:
 
-   ```bash
-   ./config_and_run.bat
-   ```
-2. Acesse http://localhost:3000
+```sh
+config_and_run.bat
+```
+
+Este script irá:
+- Configurar as variáveis de ambiente necessárias, incluindo a API_KEY, se aplicável.
+- Instalar dependências, se necessário.
+- Iniciar o servidor ou aplicativo.
+
+### Configuração em outras plataformas (Linux, macOS):
+  - **Configuração da API_KEY**: Assim como no Windows, crie um arquivo `.env` no diretório raiz do projeto e adicione a linha `API_KEY=sua_chave_aqui`.
+  - **Instalação de Dependências**:
+    - No Linux e macOS, você pode usar um gerenciador de pacotes como `apt-get`, `brew` ou `pip` para instalar dependências necessárias.
+       - @google/generative-ai
+       - @google/generative-ai dotenv

@@ -11,4 +11,5 @@ call npm install express @google/generative-ai dotenv
 
 echo.
 echo -------- Running the Project -------- 
+call start "" "http://localhost:3000"
 call node server.js
