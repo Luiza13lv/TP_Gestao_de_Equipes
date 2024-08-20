@@ -2,7 +2,7 @@
 echo -------- Configuring the environment --------
 
 echo Setting environment variable API_KEY...
-set "API_KEY=AIzaSyDa_Q5OUfsZ880ZWDoAP9XHKJy8jovfcSo"
+set "API_KEY=sua_chave_aqui"
 echo API_KEY: %API_KEY%
 
 echo Installing npm packages...

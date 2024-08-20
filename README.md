@@ -32,10 +32,6 @@ O projeto inclui um [arquivo](Presentation.pdf) de apresentação em PDF, que de
 
 ## Configuração e Execução do Projeto
 
-### Atenção
-
-- **API_KEY**: O projeto está utilizando uma API_KEY privada, que será disponibilizada até o final do semestre letivo da UFMG. Após esse período, para executar o projeto, cada usuário deverá configurar sua própria API_KEY.
-
 ### Configuração no Windows
 
 #### Requisitos
@@ -46,8 +42,8 @@ No diretório raiz do projeto, você encontrará um arquivo chamado `config_and_
 
 Para executar o script:
 
-- Clique duas vezes no arquivo `config_and_run.bat` ou
-- Abra o Prompt de Comando, navegue até o diretório do projeto e execute o comando:
+- Edite a linha `API_KEY=sua_chave_aqui` do arquivo com a api key fornecida pelo [Gemini](https://aistudio.google.com/app/apikey)
+- Clique duas vezes no arquivo `config_and_run.bat` ou abra o Prompt de Comando, navegue até o diretório do projeto e execute o comando:
 
 ```sh
 config_and_run.bat
@@ -59,7 +55,7 @@ Este script irá:
 - Iniciar o servidor ou aplicativo.
 
 ### Configuração em outras plataformas (Linux, macOS):
-  - **Configuração da API_KEY**: Assim como no Windows, crie um arquivo `.env` no diretório raiz do projeto e adicione a linha `API_KEY=sua_chave_aqui`.
+  - **Configuração da API_KEY**: Crie um arquivo `.env` no diretório raiz do projeto e adicione a linha `API_KEY=sua_chave_aqui`.
   - **Instalação de Dependências**:
     - No Linux e macOS, você pode usar um gerenciador de pacotes como `apt-get`, `brew` ou `pip` para instalar dependências necessárias.
        - @google/generative-ai
